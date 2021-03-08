@@ -1,7 +1,7 @@
 Bit Commands
 ============
 
-All bits cheered in the stream will get as many bits used in Phatcoin
+All bits cheered in the stream will get as many bits used in PhatCoin
 
 Sound Effects
 -------------

@@ -43,7 +43,7 @@ I am always open to making the stream better and adding new things to it! Feel f
   :caption: Channel Stuff
       
   pages/Channel Points
-  pages/Phatcoin
+  pages/PhatCoin
   pages/Sound Alerts
   pages/Stream Avatars  
    

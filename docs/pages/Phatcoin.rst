@@ -1,50 +1,50 @@
-Phatcoin
+PhatCoin
 ========
 
-What is Phatcoin?
+What is PhatCoin?
 -----------------
 
-Phatcoin is the channel crypto currency we use around here. It is run using Streamlab, integreated into Stream Avatars and can be mined in a couple ways
+PhatCoin is the channel crypto currency we use around here. It is run using Streamlab, integreated into Stream Avatars and can be mined in a couple ways
 
-What is Phatcoin used for?
+What is PhatCoin used for?
 --------------------------
 
 **Chat Commands**
-  Some chat commands have a Phatcoin cost tied to them
+  Some chat commands have a PhatCoin cost tied to them
 
 **Stream Avatars**
-  You can use your Phatcoin to change your Avatar in Stream Avatars or get different accessories for them
+  You can use your PhatCoin to change your Avatar in Stream Avatars or get different accessories for them
 
 **Giveaways**
-  Phatcoin is used for getting tickets when running a giveaway on stream
+  PhatCoin is used for getting tickets when running a giveaway on stream
 
-How do I get Phatcoin?
+How do I get PhatCoin?
 ----------------------
 
 **Watching**
   PhatBot will hand out random amounts of PhatCoin to everyone watching, we will also randomly give out PhatCoin to the viewers
 
 **Following**
-  When you follow, you automatically get 100 Phatcoin
+  When you follow, you automatically get 100 PhatCoin
 
 **Channel Points**
-  When you redeem Channel Points you get half the amount spent back in Phatcoin
+  When you redeem Channel Points you get half the amount spent back in PhatCoin
 
 **Host**
-  When hosting you get a **500 Phatcoin** and the viewers will get 100 Phatcoin
+  When hosting you get a **500 PhatCoin** and the viewers will get 100 PhatCoin
 
 **Raid**
-  When you said you get **1000 Phatcoin** and the viewers will get 100 Phatcoin
+  When you said you get **1000 PhatCoin** and the viewers will get 100 PhatCoin
 
 **Subscribing**
-  When you subscribe, you get different amounts of Phatcoin
+  When you subscribe, you get different amounts of PhatCoin
 
-  * Tier 1: **1000 Phatcoin** *for the subscriber, 100 for viewers*    
-  * Tier 2: **2000 Phatcoin** *for the subscriber, 200 for viewers*
-  * Tier 3: **7000 Phatcoin** *for the subscriber, 700 for viewers*
+  * Tier 1: **1000 PhatCoin** *for the subscriber, 100 for viewers*    
+  * Tier 2: **2000 PhatCoin** *for the subscriber, 200 for viewers*
+  * Tier 3: **7000 PhatCoin** *for the subscriber, 700 for viewers*
   
 **Gift Subs**
-  When gifting a sub to another viewer, you get the amount of Phatcoin for that Tier + **1000 Phatcoin**
+  When gifting a sub to another viewer, you get the amount of PhatCoin for that Tier + **1000 PhatCoin**
 
 **Bits**
-  When you cheer the channel, you get that amount added as Phatcoin
+  When you cheer the channel, you get that amount added as PhatCoin

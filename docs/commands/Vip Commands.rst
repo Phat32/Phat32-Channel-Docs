@@ -9,15 +9,15 @@ Stream
 
   **NOTE** This activated when the command is typed and there may be a visual delay.
 
-Phatcoin
+PhatCoin
 --------
 
-**!phatcoin add all X**
-  Handout new Phatcoin to everyone watching
+**!PhatCoin add all X**
+  Handout new PhatCoin to everyone watching
 
   .. code-block:: none
 
-    !phatcoin add all 300
+    !PhatCoin add all 300
 
 **!coins @Viewer X**
   Handout coins to a specific viewer

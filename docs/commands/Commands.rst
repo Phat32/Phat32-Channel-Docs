@@ -70,26 +70,26 @@ Multistream
 **!manics**
   Get the link for watching all the streamers in Chaos Tuesdays
 
-Phatcoin
+PhatCoin
 --------
 
 **!rank**
-  Displays your rank and amount of Phatcoin
+  Displays your rank and amount of PhatCoin
 
-**!phatcoin**
-  Displays the amount of Phatcoin you current have
+**!PhatCoin**
+  Displays the amount of PhatCoin you current have
 
-**!phatcoin give @Viewer X**
-  Give some of your Phatcoin to someone else in the chat
+**!PhatCoin give @Viewer X**
+  Give some of your PhatCoin to someone else in the chat
 
   .. code-block:: none
 
-    !phatcoin give @Phat32 10
+    !PhatCoin give @Phat32 10
 
 **!tickets X**
   Get tickets for any active giveaway
 
-  *Phatcoin cost: 1000 per ticket*
+  *PhatCoin cost: 1000 per ticket*
 
   .. code-block:: none
 
@@ -102,7 +102,7 @@ Stream Avatars
   Ask the Magic 8ball
 
 **!duel** *@Viewer*
-  Battle against another viewer, you can also but Phatcoin on the line on who will win the duel
+  Battle against another viewer, you can also but PhatCoin on the line on who will win the duel
 
   .. code-block:: none
 
@@ -113,21 +113,21 @@ Stream Avatars
 **!fightme**
   Have PhatBot issue you a challenge to fight
 
-  *Phatcoin cost: 10*
+  *PhatCoin cost: 10*
 
 **!slots X**
-  Play the slots and try to get more Phatcoin
+  Play the slots and try to get more PhatCoin
 
-  *Phatcoin cost: X*
+  *PhatCoin cost: X*
 
   .. code-block:: none
 
     !slots 500
 
 **!bet X [blue/pink]**
-  Spin the roulette to try and win more Phatcoin
+  Spin the roulette to try and win more PhatCoin
 
-  *Phatcoin cost: X*
+  *PhatCoin cost: X*
 
   .. code-block:: none
 
@@ -139,9 +139,9 @@ Why?!
 **!ad**
   Play an ad on stream automatically
 
-  *Phatcoin cost: 100*
+  *PhatCoin cost: 100*
 
 **!nospeak**
   Time yourself out for 2 minutes
 
-  *Phatcoin cost: 200*
+  *PhatCoin cost: 200*
