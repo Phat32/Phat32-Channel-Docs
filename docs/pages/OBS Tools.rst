@@ -45,7 +45,7 @@ __ RS_
 `StreamFX`__
 	Adds many filters to sources to allow many effects
 
-__ SFX
+__ SFX_
 
 .. _ASS: https://obsproject.com/forum/resources/advanced-scene-switcher.395/
 .. _CC: https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/
