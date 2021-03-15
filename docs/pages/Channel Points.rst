@@ -46,23 +46,14 @@ List of Channel Point Rewards
 250 Points
 ++++++++++
 
-**Camera 1 On - Show Me Your Face**
-  Turn on the main face camera
+**Face Camera Control**
+  Turn the Face Camera on or off as you want!
 
-**Camera 1 Off - Hide Your Face**
-  Turn off the main camera hiding it from stream
+**Overhead Camera Control**
+  Turn the Overhead Camera on or off as you want!
 
-**Camera 2 On - Overhead**
-  Turn on the overhead camera positioned behind me showing it to the stream
-
-**Camera 2 Off - Overhead**
-  Turn off the overhead camera hiding it from stream
-
-**Camera 3 On - What are you Printing?**
-  Turn on the camera of my 3D printer and see what is printing in real time. This will automatically turn off after 2 minutes
-
-**Camera 3 Off - Put away the printer**
-  Turn off the printer camera hiding it from stream
+**Printer Camera Control**
+  Turn on the 3D Printer Camera for 2 minutes to see what is printing!
 
 300 Points
 ++++++++++
