@@ -32,6 +32,11 @@ __ FF_
 
 __ MT_
 
+`OBS-NDI`__
+	Adds the ability to share output and preview over the network to be captured by Skye in her OBS
+
+__ NDI_
+
 `OBS Websockets`__
 	Adds Websockets that other tools can link into. Required for Liboardboard to function
 
@@ -52,6 +57,7 @@ __ SFX_
 .. _FF: https://obsproject.com/forum/resources/freeze-filter.950/
 .. _Lioranboard: https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/
 .. _MT: https://obsproject.com/forum/resources/move-transition.913/
+.. _NDI: https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/
 .. _OW: https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
 .. _RS: https://obsproject.com/forum/resources/replay-source.686/
 .. _SFX: https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/
