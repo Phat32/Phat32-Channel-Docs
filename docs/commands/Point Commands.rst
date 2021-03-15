@@ -27,7 +27,7 @@ Half of the Channel Points spent will be added back as PhatCoin
   Fix my posture and remind me to sit up
 
 250 Points
-++++++++++
+----------
   
 **Face Camera Control**
   Turn the Face Camera on or off as you want!
