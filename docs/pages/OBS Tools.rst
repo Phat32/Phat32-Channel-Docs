@@ -47,6 +47,11 @@ __ OW_
 
 __ RS_
 
+`Spectralizer`__
+	Adds a audio wave form to the stream when we speak as a cool feature
+
+__ Spec_
+
 `StreamFX`__
 	Adds many filters to sources to allow many effects
 
@@ -61,3 +66,4 @@ __ SFX_
 .. _OW: https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
 .. _RS: https://obsproject.com/forum/resources/replay-source.686/
 .. _SFX: https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/
+.. _Spec: https://obsproject.com/forum/resources/spectralizer.861/
