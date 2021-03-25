@@ -7,7 +7,7 @@ BetterTTV_
 	Adds some animated emotes to the chat and some extra things that many channels use!
 
 `Twitch Chat Pronouns`__
-	Adds the ability to add your prefered pronouns to the front of your name in the chat. `Visit their website <https://pronouns.alejo.io/>` to set your preferred pronouns!
+	Adds the ability to add your prefered pronouns to the front of your name in the chat. `Visit their website <https://pronouns.alejo.io/>`_ to set your preferred pronouns!
 
 __ TCP_
 
