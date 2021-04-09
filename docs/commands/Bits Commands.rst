@@ -41,3 +41,9 @@ Sound Effects
 
 **32 bits**
   Play a sound clip of me saying "OMG IT'S TONY STARK!"
+
+**222 bits**
+  Phat will try and win something from a real Japanese Crane Game!
+
+**333 bits**
+  Phat will try and win something you pick from a real Japanese Crane Game!
