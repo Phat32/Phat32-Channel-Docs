@@ -27,4 +27,9 @@ Yes, once every month or 2 I will go through the subscriber list and any expired
 How Do I Move Up The Wall?
 --------------------------
 
-The longer your Sub Streak the higher up the wall you move.
+The longer your Sub Streak the higher up the wall you move! However if you are unsubbed when I go through the list you will start over at the bottom.
+
+When were unsubscribed most recently removed?
+---------------------------------------------
+
+2021-05-19 3:30am
