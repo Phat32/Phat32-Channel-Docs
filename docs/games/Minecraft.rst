@@ -67,7 +67,7 @@ List of Events
 - 11 Bits - Leviate into the air and quickly drop
 - 12 Bits - Grant Slowness for 30 Seconds
 - 13 Bits - Grant Weakness for 30 Seconds
-- 14 Bits - Take away some hunger
+- 14 Bits - Add to the hunger (take away from the hams)
 - 15 Bits - Instantly Heal
 - 25 Bits - Play the Creeper Primed sound effect
 - 50 Bits - Give 1 God Apple
