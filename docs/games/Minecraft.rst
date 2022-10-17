@@ -1,14 +1,11 @@
-Minecraft Triggers
-==================
-
-What are these triggers?
-------------------------
+Minecraft
+=========
 
 The install of Minecraft that we are running is integrated with Twitch so you can effect gameplay! There are a handful of things that can happen and more will be added all the time!
 
 Please feel free to suggest new combinations!
 
-List of Triggers
+List of Events
 --------------------
 
 - 10 Bits - Grant Night Vision for 30 Seconds

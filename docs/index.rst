@@ -66,3 +66,9 @@ I am always open to making the stream better and adding new things to it! Feel f
   commands/Sub Commands
   commands/Vip Commands
   commands/Mod Commands
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Game Intregrations
+
+  games/Minecraft  
