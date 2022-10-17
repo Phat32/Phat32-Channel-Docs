@@ -5,8 +5,8 @@ The install of Minecraft that we are running is integrated with Twitch so you ca
 
 Please feel free to suggest new combinations!
 
-Mods
-----
+Installed Mods
+--------------
 
 This is a list of mods I have installed currently in my 1.19.2 MultiMC instance. 
 
