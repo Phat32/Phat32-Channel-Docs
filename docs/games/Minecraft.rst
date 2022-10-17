@@ -64,6 +64,10 @@ List of Events
 --------------
 
 - 10 Bits - Grant Night Vision for 30 Seconds
+- 11 Bits - Leviate into the air and quickly drop
+- 12 Bits - Grant Slowness for 30 Seconds
+- 13 Bits - Grant Weakness for 30 Seconds
+- 14 Bits - Take away some hunger
 - 15 Bits - Instantly Heal
 - 25 Bits - Play the Creeper Primed sound effect
 - 50 Bits - Give 1 God Apple
