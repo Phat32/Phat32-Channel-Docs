@@ -6,7 +6,7 @@ A list of the tools and plugins that are used to do all the stuff the stream doe
 Tools
 -----
 
-Lioranboard_
+SAMMI_
 	Used to do scene changes and effects that happen on stream. This also enabled the Channel Point interactions to happen automatically
 
 Plugins
@@ -21,6 +21,12 @@ __ ASS_
 	Provides live Closed Captions to the stream. They are added using Twitches built in CC so it is not forced in the stream and does not require a Twitch Extension
 
 __ CC_
+
+`DroidCam OBS`__
+	Adds the ability to use mobile phones as cameras
+
+__ Cam__
+
 
 `Freeze Filter`__
 	Adds the ability to live freeze a source for different effects
@@ -37,33 +43,28 @@ __ MT_
 
 __ NDI_
 
-`OBS Websockets`__
-	Adds Websockets that other tools can link into. Required for Liboardboard to function
-
-__ OW_
-
 `Replay Source`__
 	Adds the ability to replay a specific source instead of the whole scene for clean replays
 
 __ RS_
-
-`Spectralizer`__
-	Adds a audio wave form to the stream when we speak as a cool feature
-
-__ Spec_
 
 `StreamFX`__
 	Adds many filters to sources to allow many effects
 
 __ SFX_
 
+`Waveform`__
+	Adds a audio wave form to the stream when we speak as a cool feature
+
+__ Wave_
+
 .. _ASS: https://obsproject.com/forum/resources/advanced-scene-switcher.395/
 .. _CC: https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/
+.. _Cam: https://www.dev47apps.com/obs/
 .. _FF: https://obsproject.com/forum/resources/freeze-filter.950/
-.. _Lioranboard: https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/
+.. _SAMMI: https://sammi.solutions/
 .. _MT: https://obsproject.com/forum/resources/move-transition.913/
 .. _NDI: https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/
-.. _OW: https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
 .. _RS: https://obsproject.com/forum/resources/replay-source.686/
 .. _SFX: https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/
-.. _Spec: https://obsproject.com/forum/resources/spectralizer.861/
+.. _Wave: https://obsproject.com/forum/resources/waveform.1423/
