@@ -46,8 +46,22 @@ __ VT_
 Zoomify_
     Adds the zooming in effect
 
+Resource Pack
+-------------
+
+We are running the `Vanilla Tweeks`__ Resource Pack. Using the link provided will send you to the page with the settings pre-selected
+
+__ VanTw_
+
+Data Packs
+----------
+
+We are running the `Vanilla Tweeks`__ Data Pack. Using the link provided will send you to the page with the settings pre-selected
+
+__ VanD_
+
 List of Events
---------------------
+--------------
 
 - 10 Bits - Grant Night Vision for 30 Seconds
 - 15 Bits - Instantly Heal
@@ -70,3 +84,5 @@ List of Events
 .. _VW: https://www.curseforge.com/minecraft/mc-mods/visual-workbench
 .. _VT: https://www.curseforge.com/minecraft/mc-mods/voidtotem-fabric
 .. _Zoomify: https://www.curseforge.com/minecraft/mc-mods/zoomify
+.. _VanTw: https://phat32.tv/mc-resourcepack
+.. _VanD: https://phat32.tv/mc-datapack
