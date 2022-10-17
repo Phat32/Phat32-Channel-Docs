@@ -8,7 +8,7 @@ Please feel free to suggest new combinations!
 Installed Mods
 --------------
 
-This is a list of mods I have installed currently in my 1.19.2 MultiMC instance. 
+This is a list of mods I have installed currently in my 1.19.2 MultiMC instance. (not listing the dependiences for the mods, they list that themselves)
 
 BetterF3_
     Colourful and easier to read F3 menu
@@ -40,7 +40,7 @@ __ MM_
 __ VW_
 
 `Void Totem`__
-    Adds a Totem that will save you from a void death
+    Adds a Totem that will save you from a void death (This is the only mod I am using that really changed / adds something outside of Vanilla)
 __ VT_
 
 Zoomify_
