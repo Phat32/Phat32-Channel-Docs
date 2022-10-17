@@ -17,6 +17,10 @@ BetterF3_
     Adds Twitch Integration
 __ CCI_
 
+`Distant Horizons`__
+    Improves performance for render distance
+__ DH_
+
 `Fabric API`__
     The API for Fabric. Needed for most mods
 __ API_
@@ -84,6 +88,7 @@ List of Events
 .. _BetterF3: https://www.curseforge.com/minecraft/mc-mods/betterf3
 .. _CCI: https://www.curseforge.com/minecraft/mc-mods/content-creator-integration
 .. _API: https://www.curseforge.com/minecraft/mc-mods/fabric-api
+.. _DH: https://www.curseforge.com/minecraft/mc-mods/distant-horizons/download
 .. _Freecam: https://www.curseforge.com/minecraft/mc-mods/free-cam
 .. _IP: https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod
 .. _MiniHUD: https://www.curseforge.com/minecraft/mc-mods/minihud
