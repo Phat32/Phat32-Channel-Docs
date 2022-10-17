@@ -15,12 +15,10 @@ BetterF3_
 
 `Content Creator Intregrations`__
     Adds Twitch Integration
-
 __ CCI_
 
 `Fabric API`__
     The API for Fabric. Needed for most mods
-
 __ API_
 
 Freecam_
@@ -28,7 +26,6 @@ Freecam_
 
 `Immersive Portals`__
     Adds the awesome see through portals
-
 __ IP_
 
 MiniHUD_
@@ -36,17 +33,14 @@ MiniHUD_
 
 `Mod Menu`__
     Adds a menu section to get into the various mod settings
-
 __ MM_
 
 `Visual Workbench`__
     A neat mod to show items on a bench
-
 __ VW_
 
 `Void Totem`__
     Adds a Totem that will save you from a void death
-
 __ VT_
 
 Zoomify_
