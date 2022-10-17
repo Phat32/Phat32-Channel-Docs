@@ -72,6 +72,7 @@ List of Events
 - 25 Bits - Play the Creeper Primed sound effect
 - 50 Bits - Give 1 God Apple
 - 100 Bits - Give 32 Golden Apples
+- 150 Bits - Giove 32 torches
 - 200 Bits - Clear all active potion effects (including ones granted from other triggers)
 - 500 Bits - Spawn a Horse (untamed, random stats)
 - 1,000 Bits - Warp to Spawn
