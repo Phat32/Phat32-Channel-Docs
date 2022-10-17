@@ -69,10 +69,12 @@ List of Events
 - 50 Bits - Give 1 God Apple
 - 100 Bits - Give 32 Golden Apples
 - 200 Bits - Clear all active potion effects (including ones granted from other triggers)
-- 500 Bits - Spawn a Horse
-- 2500 Bits - Spawn a Killer Rabbit near by
-- 3000 Bits - Spawn a Wither nearby
-- 5000 Bits - Spawn a Warden nearby
+- 500 Bits - Spawn a Horse (untamed, random stats)
+- 1,000 Bits - Warp to Spawn
+- 2,500 Bits - Spawn a Killer Rabbit near by
+- 3,000 Bits - Spawn a Wither nearby
+- 4,000 Bits - Clear Inventory
+- 5,000 Bits - Spawn a Warden nearby
 
 .. _BetterF3: https://www.curseforge.com/minecraft/mc-mods/betterf3
 .. _CCI: https://www.curseforge.com/minecraft/mc-mods/content-creator-integration
