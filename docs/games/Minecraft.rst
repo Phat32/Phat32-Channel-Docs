@@ -84,7 +84,7 @@ __ VanD_
 List of Events
 --------------
 
-- 10 Bits - Grant Night Vision for 30 Seconds
+- 10 Bits - Grant Night Vision for 120 Seconds
 - 11 Bits - Leviate into the air and quickly drop
 - 12 Bits - Grant Slowness for 30 Seconds
 - 13 Bits - Grant Weakness for 30 Seconds
