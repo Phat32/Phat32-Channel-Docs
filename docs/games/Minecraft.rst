@@ -92,18 +92,18 @@ List of Events
 - 15 Bits - Instantly Heal
 - 20 Bits - Spawn Anvil 100 blocks straight up
 - 25 Bits - Play the Creeper Primed sound effect
+- 30 Bits - Give 32 Uncooked Steak
 - 42 Bits - Spawn Cake at Feet
 - 50 Bits - Give 1 God Apple
-- 70 Bits - Spoawn Ghast
+- 70 Bits - Spawn Ghast
 - 75 Bits - Spawn Blaze
 - 100 Bits - Give 32 Golden Apples
 - 150 Bits - Give 32 torches
 - 200 Bits - Clear all active potion effects (including ones granted from other triggers)
-- 250 Bits - Give Stack of Uncooked Steak
 - 350 Bits - Spawn 5 Angry Bees
 - 500 Bits - Spawn a Horse (untamed, random stats)
 - 750 Bits - Spawn Charged ready to blow Creeper
-- 1,000 Bits - Warp to Spawn
+- 1,000 Bits - Teleport randomly somewhere within 5000x5000 blocks
 - 2,500 Bits - Spawn a Killer Rabbit near by
 - 3,000 Bits - Spawn a Wither nearby
 - 4,000 Bits - Clear Inventory
