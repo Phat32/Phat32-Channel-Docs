@@ -48,8 +48,17 @@ Installed  Mods (Forge)
 
 This is a list of the mods I have installed for 1.19.2 MultiMC (Forge)
 
-BetterF3_
-    Colourful and easier to read F3 menu
+`3D Skin Layers`__
+    Adds a 3D effect to the top layer of the avatar
+__ 3D_
+
+`Better Third Person`__
+    Adds a nice rotation and better effects when in 3rd Person
+__ THIRD_
+
+`Cosmetic Armor Reworked`__
+    Adds the ability to hide the worn armor
+__ CAR_
 
 Create_
     The Create mod addings just tons of stuff
@@ -61,6 +70,25 @@ __ CCI_
 `Distant Horizons`__
     Improves performance for render distance
 __ DH_
+
+`Elytra Slot`__
+    Adds a slot for the Elytra to live
+__ ELTYRA_
+
+`Flicker Fix`__
+    Remove the horrible flicker effect when the night vision effect is about to end
+__ FLICK_
+
+`Just Enough Items`__
+    Adds a list of all the items across the mods and minecraft in a searchable interface
+__ JEI_
+
+`Mouse Tweaks`__
+    Adds handy quick actions to the mouse to make item management easier
+__ MT_
+
+OptiFine_
+    Adds a bunch of video options and the ability to use shaders
 
 `Void Totem`__
     Adds a Totem that will save you from a void death
@@ -124,3 +152,12 @@ List of Events
 .. _Zoomify: https://www.curseforge.com/minecraft/mc-mods/zoomify
 .. _VanTw: https://phat32.tv/mc-resourcepack
 .. _VanD: https://phat32.tv/mc-datapack
+
+.. _3D: https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
+.. _THIRD: https://www.curseforge.com/minecraft/mc-mods/better-third-person
+.. _CAR: https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+.. _ELTYRA: https://www.curseforge.com/minecraft/mc-mods/elytra-slot
+.. _FLICK: https://www.curseforge.com/minecraft/mc-mods/flickerfix
+.. _JEI: https://www.curseforge.com/minecraft/mc-mods/jei
+.. _MT: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+.. _OptiFine: https://optifine.net/home
