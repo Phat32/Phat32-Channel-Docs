@@ -1,6 +1,12 @@
 Chat Commands
 =============
 
+Our chatbot **PhatBot** has several built in commands that are not listed here, make sure to check out the `PhatBot Docs`__ to see everything it offers!
+
+__ PhatBot_
+
+.. _PhatBot: https://phatbot.phat32.tv
+
 General
 -------
 
@@ -61,77 +67,68 @@ Emotes
 **!rip**
   Sends many **p32RIP** when I eventually have a RIP moment
 
-Multistream
------------
+.. PhatCoin
+.. --------
 
-**!copilot**
-  Get the link for watching Skye and I when we stream couples streams
+.. **!rank**
+..   Displays your rank and amount of PhatCoin
 
-**!manics**
-  Get the link for watching all the streamers in Chaos Tuesdays
+.. **!PhatCoin**
+..   Displays the amount of PhatCoin you current have
 
-PhatCoin
---------
+.. **!PhatCoin give @Viewer X**
+..   Give some of your PhatCoin to someone else in the chat
 
-**!rank**
-  Displays your rank and amount of PhatCoin
+..   .. code-block:: none
 
-**!PhatCoin**
-  Displays the amount of PhatCoin you current have
+..     !PhatCoin give @Phat32 10
 
-**!PhatCoin give @Viewer X**
-  Give some of your PhatCoin to someone else in the chat
+.. **!tickets X**
+..   Get tickets for any active giveaway
 
-  .. code-block:: none
+..   *PhatCoin cost: 1000 per ticket*
 
-    !PhatCoin give @Phat32 10
+..   .. code-block:: none
 
-**!tickets X**
-  Get tickets for any active giveaway
+..     !tickets 20
 
-  *PhatCoin cost: 1000 per ticket*
+.. Stream Avatars
+.. --------------
 
-  .. code-block:: none
+.. **!8ball**
+..   Ask the Magic 8ball
 
-    !tickets 20
+.. **!duel** *@Viewer*
+..   Battle against another viewer, you can also but PhatCoin on the line on who will win the duel
 
-Stream Avatars
---------------
+..   .. code-block:: none
 
-**!8ball**
-  Ask the Magic 8ball
+..     !duel @Phat32
 
-**!duel** *@Viewer*
-  Battle against another viewer, you can also but PhatCoin on the line on who will win the duel
+..     !duel @Phat32 200
 
-  .. code-block:: none
+.. **!fightme**
+..   Have PhatBot issue you a challenge to fight
 
-    !duel @Phat32
+..   *PhatCoin cost: 10*
 
-    !duel @Phat32 200
+.. **!slots X**
+..   Play the slots and try to get more PhatCoin
 
-**!fightme**
-  Have PhatBot issue you a challenge to fight
+..   *PhatCoin cost: X*
 
-  *PhatCoin cost: 10*
+..   .. code-block:: none
 
-**!slots X**
-  Play the slots and try to get more PhatCoin
+..     !slots 500
 
-  *PhatCoin cost: X*
+.. **!bet X [blue/pink]**
+..   Spin the roulette to try and win more PhatCoin
 
-  .. code-block:: none
+..   *PhatCoin cost: X*
 
-    !slots 500
+..   .. code-block:: none
 
-**!bet X [blue/pink]**
-  Spin the roulette to try and win more PhatCoin
-
-  *PhatCoin cost: X*
-
-  .. code-block:: none
-
-    !bet 500 blue
+..     !bet 500 blue
 
 Why?!
 -----
