@@ -118,6 +118,10 @@ List of Events
 - 13 Bits - Grant Weakness for 30 Seconds
 - 14 Bits - Add to the hunger (take away from the hams)
 - 15 Bits - Instantly Heal
+- 16 Bits - Make it Day
+- 17 Bits - Make it Night
+- 18 Bits - Make it Noon
+- 19 Bits - Make it Midnight
 - 20 Bits - Spawn Anvil 100 blocks straight up
 - 25 Bits - Play the Creeper Primed sound effect
 - 30 Bits - Give 32 Uncooked Steak
@@ -127,8 +131,10 @@ List of Events
 - 75 Bits - Spawn Blaze
 - 100 Bits - Give 32 Golden Apples
 - 150 Bits - Give 32 torches
+- 180 Bits - Spawn Cobweb at feet
 - 200 Bits - Clear all active potion effects (including ones granted from other triggers)
 - 350 Bits - Spawn 5 Angry Bees
+- 375 Bits - Spawn Enderman
 - 500 Bits - Spawn a Horse (untamed, random stats)
 - 750 Bits - Spawn Charged ready to blow Creeper
 - 1,000 Bits - Teleport randomly somewhere within 5000x5000 blocks
