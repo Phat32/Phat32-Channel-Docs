@@ -52,9 +52,9 @@ This is a list of the mods I have installed for 1.19.2 MultiMC (Forge)
     Adds a 3D effect to the top layer of the avatar
 __ 3D_
 
-`Better Third Person`__
-    Adds a nice rotation and better effects when in 3rd Person
-__ THIRD_
+.. `Better Third Person`__
+..     Adds a nice rotation and better effects when in 3rd Person
+.. __ THIRD_
 
 `Cosmetic Armor Reworked`__
     Adds the ability to hide the worn armor
@@ -67,9 +67,9 @@ Create_
     Adds Twitch Integration
 __ CCI_
 
-`Distant Horizons`__
-    Improves performance for render distance
-__ DH_
+.. `Distant Horizons`__
+..     Improves performance for render distance
+.. __ DH_
 
 `Elytra Slot`__
     Adds a slot for the Elytra to live
@@ -79,9 +79,19 @@ __ ELTYRA_
     Remove the horrible flicker effect when the night vision effect is about to end
 __ FLICK_
 
+Journeymap_
+    Adds waypoints and many map features
+
 `Just Enough Items`__
     Adds a list of all the items across the mods and minecraft in a searchable interface
 __ JEI_
+
+`Lucky Block`__
+    Adds the Lucky Block with many many many random effects
+__ LB_
+
+Minis_
+    Adds the ability to spawn minis of their avatars
 
 `Mouse Tweaks`__
     Adds handy quick actions to the mouse to make item management easier
@@ -133,6 +143,7 @@ List of Events
 - 150 Bits - Give 32 torches
 - 180 Bits - Spawn Cobweb at feet
 - 200 Bits - Clear all active potion effects (including ones granted from other triggers)
+- 250 Bits - Spawn a Lucky Box
 - 350 Bits - Spawn 5 Angry Bees
 - 375 Bits - Spawn Enderman
 - 500 Bits - Spawn a Horse (untamed, random stats)
@@ -167,3 +178,6 @@ List of Events
 .. _JEI: https://www.curseforge.com/minecraft/mc-mods/jei
 .. _MT: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 .. _OptiFine: https://optifine.net/home
+.. _LB: https://www.luckyblockmod.com/
+.. _Journeymap: https://www.curseforge.com/minecraft/mc-mods/journeymap
+.. _Minis: https://www.curseforge.com/minecraft/mc-mods/minis
