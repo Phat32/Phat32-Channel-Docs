@@ -14,16 +14,21 @@ Chat Commands
 **!delay+ x**
   Add a delay to the face camera if the mic and video are out of sync
 
-**!replay**
-  Activate the Instant Replay to rewatch an interesting moment for the last 15 seconds for 2 loops (30 seconds)
-
-  **NOTE** This activated when the command is typed and there may be a visual delay.
-
-
-
-  ..code-block:: none
+  .. code-block:: none
 
     !delay+ 50
+
+**!tts anything**
+  Have the google in his office say stuff
+
+  .. code-block:: none
+
+    !tts You are looking mighty fine today!
+
+.. **!replay**
+..   Activate the Instant Replay to rewatch an interesting moment for the last 15 seconds for 2 loops (30 seconds)
+
+..   **NOTE** This activated when the command is typed and there may be a visual delay.
 
 .. PhatCoin
 .. --------

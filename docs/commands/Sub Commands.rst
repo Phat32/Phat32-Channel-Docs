@@ -3,7 +3,7 @@ Subscriber Commands
 
 Subscriber have access to commands that only they can use! More will be added as we go
 
-Colour Assests
+Assest Colours
 --------------
 
 **!default**
@@ -29,3 +29,15 @@ Colour Assests
 
 **!rainbow**
   Make the assets on stream Rainbow
+
+IRL Stuff
+---------
+
+**!cast {YouTube video}**
+  Play a YouTube video of your choosing on the screen behind him. The video must be from YouTube, you can use the URL or just the video code-block
+
+  Example:
+
+  .. code-block::
+
+    !cast G1IbRujko-A
