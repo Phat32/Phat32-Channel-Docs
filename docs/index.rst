@@ -43,10 +43,11 @@ I am always open to making the stream better and adding new things to it! Feel f
   :maxdepth: 2
   :caption: Channel Stuff
       
+  pages/Schedule
   pages/Channel Points
-  pages/PhatCoin
-  pages/Sound Alerts
-  pages/Stream Avatars  
+  .. pages/PhatCoin
+  pages/Blerps
+  .. pages/Stream Avatars  
    
 .. toctree::
   :maxdepth: 2
