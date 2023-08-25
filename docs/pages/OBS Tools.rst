@@ -57,6 +57,11 @@ __ MOVE_
 
 __ REPLAY_
 
+`Source Screenshot Filter`__
+	Adds the ability to save a screenshot of just a source
+
+__ SCREEN_
+
 `Source Clone`__
 	Adds Source Clone as a source type
 
@@ -87,6 +92,7 @@ __ VBAN_
 .. _FREEZE: https://obsproject.com/forum/resources/freeze-filter.950/
 .. _MOVE: https://obsproject.com/forum/resources/move.913/
 .. _REPLAY: https://obsproject.com/forum/resources/replay-source.686/
+.. _SCREEN: https://github.com/synap5e/obs-screenshot-plugin
 .. _CLONE: https://obsproject.com/forum/resources/source-clone.1632/
 .. _RECORD: https://obsproject.com/forum/resources/source-record.1285/
 .. _WAVE: https://obsproject.com/forum/resources/waveform.1423/
