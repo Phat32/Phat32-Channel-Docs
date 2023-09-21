@@ -99,7 +99,7 @@ INI file
     [ResourceVeins]
     fResourceDecalRenderDistance=4000.0
     fResourceDecalRenderDistanceFalloff=4000.0
-    ﻿
+    
     [Monocle]
     ; [blue] SCANNED RESOURCES
     fHighlightScannableOutlineThickness_TargetFullyScanned=2.0
