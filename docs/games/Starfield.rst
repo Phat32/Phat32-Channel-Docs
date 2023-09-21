@@ -41,7 +41,8 @@ Installed Mods
 StarfieldCustom.ini
 -------------------
 
-.. code-block:: ini
+.. code-block:: none
+    
     [Archive]
     bInvalidateOlderFiles=1
     sResourceDataDirsFinal=
