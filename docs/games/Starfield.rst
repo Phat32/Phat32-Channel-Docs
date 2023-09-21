@@ -38,8 +38,8 @@ Installed Mods
 - `Undelayed Menus <https://www.nexusmods.com/starfield/mods/404>`_
 
 
-INI file
---------
+StarfieldCustom.ini
+-------------------
 
 .. code-block:: ini
     [Archive]
