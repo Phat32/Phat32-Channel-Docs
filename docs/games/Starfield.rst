@@ -36,3 +36,138 @@ Installed Mods
 - `StarUI Inventory <https://www.nexusmods.com/starfield/mods/773>`_
 - `Ultimate ASI Loader <https://github.com/ThirteenAG/Ultimate-ASI-Loader>`_
 - `Undelayed Menus <https://www.nexusmods.com/starfield/mods/404>`_
+
+
+INI file
+--------
+
+.. code-block:: ini
+    [Archive]
+    bInvalidateOlderFiles=1
+    sResourceDataDirsFinal=
+    SResourceEnglishVoiceList=Starfield - Voices01.ba2, Starfield - Voices02.ba2, Starfield - VoicesPatch.ba2
+    SResourceIndexFileList=Starfield - LODTextures.ba2, Starfield - Textures01.ba2, Starfield - Textures02.ba2, Starfield - Textures03.ba2, Starfield - Textures04.ba2, Starfield - Textures05.ba2, Starfield - Textures06.ba2, Starfield - Textures07.ba2, Starfield - Textures08.ba2, Starfield - Textures09.ba2, Starfield - Textures10.ba2, Starfield - Textures11.ba2, Starfield - TexturesPatch.ba2
+    SResourceStartUpArchiveList=Starfield - Interface.ba2, Starfield - Localization.ba2, Starfield - Shaders.ba2, Starfield - ShadersBeta.ba2, Starfield - WwiseSounds01.ba2, Starfield - WwiseSounds02.ba2, Starfield - WwiseSounds03.ba2, Starfield - WwiseSounds04.ba2, Starfield - WwiseSounds05.ba2, Starfield - WwiseSoundsPatch.ba2, BlueprintShips-Starfield - Localization.ba2
+    SResourceArchiveList=Starfield - Animations.ba2, Starfield - DensityMaps.ba2, Starfield - FaceAnimation01.ba2, Starfield - FaceAnimation02.ba2, Starfield - FaceAnimation03.ba2, Starfield - FaceAnimation04.ba2, Starfield - FaceAnimationPatch.ba2, Starfield - FaceMeshes.ba2, Starfield - GeneratedTextures.ba2, Starfield - LODMeshes.ba2, Starfield - LODMeshesPatch.ba2, Starfield - Materials.ba2, Starfield - Meshes01.ba2, Starfield - Meshes02.ba2, Starfield - MeshesPatch.ba2, Starfield - Misc.ba2, Starfield - Particles.ba2, Starfield - PlanetData.ba2, Starfield - Terrain01.ba2, Starfield - Terrain02.ba2, Starfield - Terrain03.ba2, Starfield - Terrain04.ba2, Starfield - TerrainPatch.ba2
+    SResourceArchiveMemoryCacheList=Starfield - Interface.ba2, Starfield - Misc.ba2
+
+    [Camera]
+    fFPWorldFOV=80.0000
+    fTPWorldFOV=100.0000
+
+    [Controls]
+    # Delay in seconds before the player grabs an interactive object
+    fQCZKeyDelay=0.3
+    # Delay in seconds before the player grabs a basic object
+    fZKeyDelay=0.15
+    bMouseAcceleration=0
+    fMouseHeadingXScale=0.021
+    fMouseHeadingYScale=*
+    fIronSightsPitchSpeedRatio=1
+    fPitchSpeedRatio=1
+    fGamepadLookAccelSec=0.8800
+    fGamepadLookMultExponent=0
+    fGamepadLookAccelYawMult=0.88000
+    fGamepadLookAccelPitchMult=1
+
+    [Display]
+    bVolumetricLightingEnable=1
+    bVolumetricLightingEnableDistantScattering=1
+    bVolumetricLightingEnableNearSpatialFiltering=0
+    bVolumetricLightingEnableScatteringVolume=1
+    bVolumetricLightingFogMapUseWeatherSettings=0
+    bVolumetricLightingUseAreaLights=0
+    bVolumetricLightingUseDistanceCulling=1
+    bVolumetricLightingUseOcclusionCulling=1
+    bVolumetricLightingUseWeatherSettings=1
+    bVolumetricLigthingInLiteBrite=0
+    bVolumetricLigthingUseLightGobos=0
+    bEnableVolumetricLightingOnParticles=0
+
+    [General]
+    SIntroSequence=0
+    uMainMenuDelayBeforeAllowSkip=0
+    bEnableMessageOfTheDay=0
+    bAlwaysActive=1
+    sStartingConsoleCommand=bat NoXPKillStealFix;bat BetterRotation;bat ImprovedCombatAI;bat ISD25;bat ISLD10;bat builderTweak
+    sTestFile1=crafting.esp
+    sTestFile2=xatmosNoClutter.esp
+    sTestFile3=FastWalk.esp
+    uExterior Cell Buffer=47
+    SGPUDefaultQualitySettingsJSON=DefaultGlobalGraphicsSettings.json
+
+    [ResourceVeins]
+    fResourceDecalRenderDistance=4000.0
+    fResourceDecalRenderDistanceFalloff=4000.0
+    ﻿
+    [Monocle]
+    ; [blue] SCANNED RESOURCES
+    fHighlightScannableOutlineThickness_TargetFullyScanned=2.0
+    fHighlightScannableOutlineThickness_FullyScanned=2.0
+    aHighlightScannableFillColor_TargetFullyScanned=0,0,0,0
+    aHighlightScannableOutlineColorHigh_TargetFullyScanned=62,173,242,255
+    aHighlightScannableOutlineColorLow_TargetFullyScanned=62,173,242,255
+    aHighlightScannableFillColor_FullyScanned=62,173,242,8
+    aHighlightScannableOutlineColorHigh_FullyScanned=114,192,255,255
+    aHighlightScannableOutlineColorLow_FullyScanned=114,192,255,255
+
+    ; [blue] SCANNED FLORA FAUNA & SOME CORPSES
+    fHighlightScannableOutlineThickness_TargetScanned=2.0
+    fHighlightScannableOutlineThickness_Scanned=2.0
+    aHighlightScannableFillColor_TargetScanned=0,0,0,0
+    aHighlightScannableOutlineColorHigh_TargetScanned=62,140,242,255
+    aHighlightScannableOutlineColorLow_TargetScanned=62,140,242,255
+    aHighlightScannableFillColor_Scanned=62,140,242,8
+    aHighlightScannableOutlineColorHigh_Scanned=62,140,242,128
+    aHighlightScannableOutlineColorLow_Scanned=62,140,242,128
+
+    ; [green] ALLIES & SOME ENEMIES & SHIPS & UNSCANNED FLORA FAUNA RESOURCES
+    fHighlightScannableOutlineThickness_TargetScannable=2.0
+    fHighlightScannableOutlineThickness=2.0
+    aHighlightScannableFillColor_TargetScannable=0,0,0,0
+    aHighlightScannableOutlineColorHigh_TargetScannable=31,224,192,255
+    aHighlightScannableOutlineColorLow_TargetScannable=31,224,192,255
+    aHighlightScannableFillColor=31,224,192,8
+    aHighlightScannableOutlineColorHigh=31,224,192,255
+    aHighlightScannableOutlineColorLow=31,224,192,255
+
+    ; [yellow] LOOT & SOME ENEMIES & SOME CORPSES
+    fHighlightScannableOutlineThickness_TargetGeneric=1.5
+    fHighlightScannableOutlineThickness_Generic=1.5
+    aHighlightScannableFillColor_TargetGeneric=0,0,0,0
+    aHighlightScannableFillColor_Generic=242,173,62,8
+    aHighlightScannableOutlineColorHigh_TargetGeneric=242,173,62,255
+    aHighlightScannableOutlineColorLow_TargetGeneric=242,173,62,255
+    aHighlightScannableOutlineColorHigh_Generic=242,173,62,255
+    aHighlightScannableOutlineColorLow_Generic=242,173,62,255
+
+    ; [soft reddish purple] JUNK
+    fHighlightScannableOutlineThickness_Tracked=1.0
+    aHighlightScannableFillColor_Tracked=0,0,0,0
+    aHighlightScannableOutlineColorHigh_Tracked=192,32,96,64
+    aHighlightScannableOutlineColorLow_Tracked=192,32,96,64
+
+    ; [purple] SOCIAL? UNUSED?
+    fHighlightScannableOutlineThickness_Social=2.0
+    aHighlightScannableFillColor_Social=192,32,96,16
+    aHighlightScannableOutlineColorHigh_Social=192,32,96,255
+    aHighlightScannableOutlineColorLow_Social=192,32,96,255
+
+    [Wwise]
+    iDefaultExternalCodecID=4
+
+    [Spaceship]
+    fShipBuilderSnapDistance=1.7500
+    fShipBuilderEquipmentSnapDistance=1.5000
+    fShipBuilderFloorChangeDuration=0.3500
+    fShipBuilderMouseRotationSpeedMultiplier=9.0000
+    fShipBuilderGamepadPanSpeed=45.0000
+    fShipBuilderMousePanSpeed=2.2500
+    fShipBuilderMinFloor=-50.0000
+    fShipBuilderMaxFloor=50.0000
+    fShipBuilderZoomMinScale=4.0000
+    fShipBuilderGamepadZoomSpeedMultiplier=1.2000
+    fShipBuilderMouseZoomSpeedMultiplier=4.0000
+    [Workshop]
+    fItemRotationSpeedMax=5.0000
+    fItemRotationSpeedMin=0.2500
