@@ -9,7 +9,7 @@ Fabric 1.20.1
 -------------
 
 Mods
-++++
+****
 
 - `3D Skin Layers <https://modrinth.com/mod/3dskinlayers>`_
 - `Autoclicker RinF <https://modrinth.com/mod/autoclicker-rinf-uwu>`_
@@ -52,7 +52,7 @@ Mods
 - `Zoomify <https://modrinth.com/mod/zoomify>`_
 
 Resource Pack
-+++++++++++++
+**************
 
 - `Vanilla Tweaks <https://phat32.tv/mc-resourcepack>`_
 
@@ -62,7 +62,7 @@ Create 1.20.1 (Fabric Edition)
 Create Fabric does not currently support Sodium, so it and anything requiring it is not present
 
 Mods
-++++
+****
 
 - `3D Skin Layers <https://modrinth.com/mod/3dskinlayers>`_
 - `Autoclicker RinF <https://modrinth.com/mod/autoclicker-rinf-uwu>`_
@@ -101,11 +101,11 @@ Mods
 - `Zoomify <https://modrinth.com/mod/zoomify>`_
 
 Resource Pack
-+++++++++++++
+*************
 
 - `Vanilla Tweaks Resource Pack <https://phat32.tv/mc-resourcepack>`_
 
 Data Pack
-+++++++++
+*********
 
 - `Vanilla Tweaks Data Pack <https://phat32.tv/mc-datapack>`_
