@@ -37,7 +37,7 @@ Mods
 - `Reese's Sodium Options <https://modrinth.com/mod/reeses-sodium-options>`_
 - `ReplayMod <https://modrinth.com/mod/replaymod>`_
 - `Replay Voice Chat <https://modrinth.com/mod/replay-voice-chat>`_
-- `Show Me Your Skin! <https://modrinth.com/mod/show-me-your-skin>`_
+- `Show Me Your Skin! <https://modrinth.com/mod/show-me-your-skin>`_https://vanillatweaks.net/share#CQKCgF
 - `Simple Voice Chat <https://modrinth.com/plugin/simple-voice-chat>`_
 - `Sodium <https://modrinth.com/mod/sodium>`_
 - `Sodium Extra <https://modrinth.com/mod/sodium-extra>`_
@@ -59,7 +59,7 @@ Resource Pack
 Create 1.20.1 (Fabric Edition)
 ------------------------------
 
-Create Fabric does not currently support Sodium, so it and anything requiring it is not present
+Unfortunately Create Fabric does not currently support Sodium, so a handful of mods had to be removed. There was also a crashing conflict with the "Show Me Your Skin!" mod on boot so that had to be removed as well.
 
 Mods
 ****
@@ -88,7 +88,6 @@ Mods
 - `Presence Footsteps <https://modrinth.com/mod/presence-footsteps>`_
 - `ReplayMod <https://modrinth.com/mod/replaymod>`_
 - `Replay Voice Chat <https://modrinth.com/mod/replay-voice-chat>`_
-- `Show Me Your Skin! <https://modrinth.com/mod/show-me-your-skin>`_
 - `Simple Voice Chat <https://modrinth.com/plugin/simple-voice-chat>`_
 - `Starlight (Fabric) <https://modrinth.com/mod/starlight>`_
 - `Status <https://modrinth.com/mod/status>`_
