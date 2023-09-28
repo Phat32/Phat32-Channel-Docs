@@ -104,6 +104,11 @@ Mods
 - `YetAnotherConfigLib <https://modrinth.com/mod/yacl>`_
 - `Zoomify <https://modrinth.com/mod/zoomify>`_
 
+Seed
+****
+
+PhatCreate
+
 Resource Pack
 *************
 
