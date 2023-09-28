@@ -5,6 +5,11 @@ The install of Minecraft that we are running is integrated with Twitch so you ca
 
 Please feel free to suggest new combinations!
 
+Launcher
+--------
+
+`MultiMC <https://multimc.org/>`_ is the launcher of choice around here, no particular reason other than it is what we like
+
 Fabric 1.20.1
 -------------
 
@@ -37,7 +42,7 @@ Mods
 - `Reese's Sodium Options <https://modrinth.com/mod/reeses-sodium-options>`_
 - `ReplayMod <https://modrinth.com/mod/replaymod>`_
 - `Replay Voice Chat <https://modrinth.com/mod/replay-voice-chat>`_
-- `Show Me Your Skin! <https://modrinth.com/mod/show-me-your-skin>`_https://vanillatweaks.net/share#CQKCgF
+- `Show Me Your Skin! <https://modrinth.com/mod/show-me-your-skin>`_
 - `Simple Voice Chat <https://modrinth.com/plugin/simple-voice-chat>`_
 - `Sodium <https://modrinth.com/mod/sodium>`_
 - `Sodium Extra <https://modrinth.com/mod/sodium-extra>`_
