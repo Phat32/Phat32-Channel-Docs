@@ -106,10 +106,10 @@ Resource Pack
 Create 1.20.1 (Fabric Edition)
 ------------------------------
 
-Unfortunately Create Fabric does not currently support Sodium, so a handful of mods had to be removed. There was also a crashing conflict with the "Show Me Your Skin!" mod on boot so that had to be removed as well.
-
 Client Mods
 ***********
+
+Unfortunately Create Fabric does not currently support Sodium, so a handful of mods had to be removed. There was also a crashing conflict with the "Show Me Your Skin!" mod on boot so that had to be removed as well.
 
 - `3D Skin Layers <https://modrinth.com/mod/3dskinlayers>`_
 - `Autoclicker RinF <https://modrinth.com/mod/autoclicker-rinf-uwu>`_
