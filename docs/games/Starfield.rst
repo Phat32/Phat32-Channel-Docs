@@ -28,7 +28,6 @@ Installed Mods
 - `Faster Favorites Menu <https://www.nexusmods.com/starfield/mods/1581>`_
 - `Hello Kitty CreditStick <https://www.nexusmods.com/starfield/mods/3284>`_
 - `Hide Spacesuit In Breathable Areas <https://www.nexusmods.com/starfield/mods/2095>`_
-- `Immersive Shell Casings <https://www.nexusmods.com/starfield/mods/914>`_
 - `Improved Combat AI <https://www.nexusmods.com/starfield/mods/1392>`_
 - `Increased Scan Distance <https://www.nexusmods.com/starfield/mods/769>`_
 - `Increased Space Loot Distance <https://www.nexusmods.com/starfield/mods/1013>`_
@@ -186,3 +185,19 @@ StarfieldCustom.ini
     [Workshop]
     fItemRotationSpeedMax=5.0000
     fItemRotationSpeedMin=0.2500
+
+Plugins.txt
+-------------------
+
+.. code-block:: none
+    # This file is used by Starfield to keep track of your downloaded content. (You HAVE to keep a # on the first line here)
+    *crafting.esm
+    *HSIBA.esm
+    *Improved Combat AI.esm
+    *Richer Merchants.esm
+    *FastWalk.esp
+    *xatmosNoClutter.esp
+    *Sit To Add Ship.esm
+    *FurtherDocking.esm
+    *IncreasedSpaceLootDistance.esm
+    *IncreasedScanDistance.esm
