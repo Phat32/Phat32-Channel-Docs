@@ -46,7 +46,6 @@ Installed Mods
 - `Smooth Interface (60fps) <https://www.nexusmods.com/starfield/mods/506>`_
 - `Slower item rotation <https://www.nexusmods.com/starfield/mods/1466>`_
 - `Starfield FOV <https://www.nexusmods.com/starfield/mods/99>`_
-- `Starfield Upscaler - Replacing FSR2 with DLSS or XeSS <https://www.nexusmods.com/starfield/mods/111>`_
 - `StarUI HUD <https://www.nexusmods.com/starfield/mods/3444>`_
 - `StarUI Inventory <https://www.nexusmods.com/starfield/mods/773>`_
 - `StarUI Outpost <https://www.nexusmods.com/starfield/mods/5766>`_
