@@ -3,40 +3,54 @@ Starfield
 
 We are using the Gamepass version of Starfield cause it is already paid for! This does comes with some limitations with mods that are used. At the time of creating this page, SFSE is not compatible with Gamepass.
 
+There is a way to make some SFSE plugins work, but it is unreliable at the moment. More mods are getting ported to ASI when possible so yay
+
 Installed Mods
 --------------
 
 - `Achievement Enabler <https://www.nexusmods.com/starfield/mods/252>`_
 - `BetterHUD - Immersive and Dynamic - User Configurable <https://www.nexusmods.com/starfield/mods/214>`_
+- `Better Movement Speed <https://www.nexusmods.com/starfield/mods/437>`_
 - `Burden Me Not - Clutter Begone <https://www.nexusmods.com/starfield/mods/809>`_
 - `Cleanfield - A No-Intro Videos and Clean Menu Fix <https://www.nexusmods.com/starfield/mods/88>`_
+- `Compact Crafting UI <https://www.nexusmods.com/starfield/mods/3274>`_
+- `Compact Crew Menu UI <https://www.nexusmods.com/starfield/mods/3014>`_
+- `Compact Inventory <https://www.nexusmods.com/starfield/mods/185>`_
 - `Compact Mission UI <https://www.nexusmods.com/starfield/mods/682>`_
 - `Compact Ship Builder UI <https://www.nexusmods.com/starfield/mods/1170>`_
 - `Craftable Ammo and Utilities <https://www.nexusmods.com/starfield/mods/831>`_
 - `Enhanced Blood Textures Starfield <https://www.nexusmods.com/starfield/mods/326>`_
 - `Enhanced Dialogue Interface <https://www.nexusmods.com/starfield/mods/871>`_
 - `Enhanced Player Healthbar <https://www.nexusmods.com/starfield/mods/454>`_
+- `Enhanced Presets <https://www.nexusmods.com/starfield/mods/3450>`_
+- `Enhanced Subtitles <https://www.nexusmods.com/starfield/mods/1914>`_
 - `EXE - Effect Textures Enhanced <https://www.nexusmods.com/starfield/mods/340>`_
 - `Faster Favorites Menu <https://www.nexusmods.com/starfield/mods/1581>`_
 - `Hello Kitty CreditStick <https://www.nexusmods.com/starfield/mods/3284>`_
+- `Hide Spacesuit In Breathable Areas <https://www.nexusmods.com/starfield/mods/2095>`_
 - `Immersive Shell Casings <https://www.nexusmods.com/starfield/mods/914>`_
 - `Improved Combat AI <https://www.nexusmods.com/starfield/mods/1392>`_
 - `Increased Scan Distance <https://www.nexusmods.com/starfield/mods/769>`_
 - `Increased Space Loot Distance <https://www.nexusmods.com/starfield/mods/1013>`_
 - `No XP Kill Steal Fix <https://www.nexusmods.com/starfield/mods/1018>`_
 - `Neutral LUTs - No Color Filters <https://www.nexusmods.com/starfield/mods/323>`_
+- `Plugins.txt Enabler <https://www.nexusmods.com/starfield/mods/4157>`_
 - `Real Flashlight <https://www.nexusmods.com/starfield/mods/570>`_
 - `Responsive Grabbing <https://www.nexusmods.com/starfield/mods/289>`_
+- `Richer Merchants <https://www.nexusmods.com/starfield/mods/1143>`_
+- `Scanner Enchumberance Display With Time <https://www.nexusmods.com/starfield/mods/963>`_
+- `Ship Builder Tolerance Tweaks <https://www.nexusmods.com/starfield/mods/388>`_
 - `Ship Builder Tweaks <https://www.nexusmods.com/starfield/mods/415>`_
+- `Sit To Add Ship to Fleet <https://www.nexusmods.com/starfield/mods/6493>`_
 - `Simple Faster Walk <https://www.nexusmods.com/starfield/mods/1411>`_
 - `Smooth Interface (60fps) <https://www.nexusmods.com/starfield/mods/506>`_
 - `Slower item rotation <https://www.nexusmods.com/starfield/mods/1466>`_
 - `Starfield FOV <https://www.nexusmods.com/starfield/mods/99>`_
 - `Starfield Upscaler - Replacing FSR2 with DLSS or XeSS <https://www.nexusmods.com/starfield/mods/111>`_
+- `StarUI HUD <https://www.nexusmods.com/starfield/mods/3444>`_
 - `StarUI Inventory <https://www.nexusmods.com/starfield/mods/773>`_
 - `Ultimate ASI Loader <https://github.com/ThirteenAG/Ultimate-ASI-Loader>`_
 - `Undelayed Menus <https://www.nexusmods.com/starfield/mods/404>`_
-
 
 StarfieldCustom.ini
 -------------------
@@ -90,17 +104,14 @@ StarfieldCustom.ini
     uMainMenuDelayBeforeAllowSkip=0
     bEnableMessageOfTheDay=0
     bAlwaysActive=1
-    sStartingConsoleCommand=bat NoXPKillStealFix;bat BetterRotation;bat ImprovedCombatAI;bat ISD25;bat ISLD10;bat builderTweak
-    sTestFile1=crafting.esp
-    sTestFile2=xatmosNoClutter.esp
-    sTestFile3=FastWalk.esp
+    sStartingConsoleCommand=bat NoXPKillStealFix;bat BetterRotation;bat builderTweak;bat toleranceBig
     uExterior Cell Buffer=47
     SGPUDefaultQualitySettingsJSON=DefaultGlobalGraphicsSettings.json
 
     [ResourceVeins]
-    fResourceDecalRenderDistance=4000.0
-    fResourceDecalRenderDistanceFalloff=4000.0
-    
+    fResourceDecalRenderDistance=14000.0
+    fResourceDecalRenderDistanceFalloff=18000.0
+
     [Monocle]
     ; [blue] SCANNED RESOURCES
     fHighlightScannableOutlineThickness_TargetFullyScanned=2.0
