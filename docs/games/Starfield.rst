@@ -26,6 +26,7 @@ Installed Mods
 - `Enhanced Subtitles <https://www.nexusmods.com/starfield/mods/1914>`_
 - `EXE - Effect Textures Enhanced <https://www.nexusmods.com/starfield/mods/340>`_
 - `Faster Favorites Menu <https://www.nexusmods.com/starfield/mods/1581>`_
+- `Further Docking - Dock up to 5000m away <https://www.nexusmods.com/starfield/mods/5955>`_
 - `Hello Kitty CreditStick <https://www.nexusmods.com/starfield/mods/3284>`_
 - `Hide Spacesuit In Breathable Areas <https://www.nexusmods.com/starfield/mods/2095>`_
 - `Improved Combat AI <https://www.nexusmods.com/starfield/mods/1392>`_
@@ -190,7 +191,7 @@ Plugins.txt
 -------------------
 
 .. code-block:: none
-    
+
     # This file is used by Starfield to keep track of your downloaded content. (You HAVE to keep a # on the first line here)
     *crafting.esm
     *HSIBA.esm
