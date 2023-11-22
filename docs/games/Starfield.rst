@@ -8,11 +8,11 @@ There is a way to make some SFSE plugins work, but it is unreliable at the momen
 Installed Mods
 --------------
 
-- `Achievement Enabler <https://www.nexusmods.com/starfield/mods/252>`_
 - `BetterHUD - Immersive and Dynamic - User Configurable <https://www.nexusmods.com/starfield/mods/214>`_
 - `Better Movement Speed <https://www.nexusmods.com/starfield/mods/437>`_
 - `Burden Me Not - Clutter Begone <https://www.nexusmods.com/starfield/mods/809>`_
 - `Cleanfield - A No-Intro Videos and Clean Menu Fix <https://www.nexusmods.com/starfield/mods/88>`_
+- `Compact Building Menu UI <https://www.nexusmods.com/starfield/mods/3063>`_
 - `Compact Crafting UI <https://www.nexusmods.com/starfield/mods/3274>`_
 - `Compact Crew Menu UI <https://www.nexusmods.com/starfield/mods/3014>`_
 - `Compact Inventory <https://www.nexusmods.com/starfield/mods/185>`_
@@ -49,6 +49,9 @@ Installed Mods
 - `Starfield Upscaler - Replacing FSR2 with DLSS or XeSS <https://www.nexusmods.com/starfield/mods/111>`_
 - `StarUI HUD <https://www.nexusmods.com/starfield/mods/3444>`_
 - `StarUI Inventory <https://www.nexusmods.com/starfield/mods/773>`_
+- `StarUI Outpost <https://www.nexusmods.com/starfield/mods/5766>`_
+- `StarUI Ship Builder <https://www.nexusmods.com/starfield/mods/6402>`_
+- `StarUI Workbench <https://www.nexusmods.com/starfield/mods/4966>`_
 - `Ultimate ASI Loader <https://github.com/ThirteenAG/Ultimate-ASI-Loader>`_
 - `Undelayed Menus <https://www.nexusmods.com/starfield/mods/404>`_
 
