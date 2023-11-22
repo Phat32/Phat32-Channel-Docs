@@ -190,6 +190,7 @@ Plugins.txt
 -------------------
 
 .. code-block:: none
+    
     # This file is used by Starfield to keep track of your downloaded content. (You HAVE to keep a # on the first line here)
     *crafting.esm
     *HSIBA.esm
