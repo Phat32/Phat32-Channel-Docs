@@ -24,7 +24,7 @@ Mods
 Almost all of the mods are installed using the `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_
 
 Core
-++++
+****
 
 - `Camera2 <https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2>`_
 - `SongCore <https://github.com/ModdingPink/SongCoreLegacy/>`_
@@ -38,7 +38,7 @@ Core
 - `BSIPA <https://nike4613.github.io/BeatSaber-IPA-Reloaded/>`_
 
 Cosmetic
-++++++++
+********
 
 - `CustomPillows <https://github.com/RedBrumbler/CustomPillows>`_
 - `CustomBanners <https://github.com/ToniMacaroni/CustomBanners>`_
@@ -48,18 +48,18 @@ Cosmetic
 - `Partical Overdrive <https://github.com/Shadnix-was-taken/BeatSaber-ParticleOverdrive>`_
 
 Gameplay
-++++++++
+********
 
 - `NoodleExtensions <https://github.com/Aeroluna/Heck>`_
 - `MappingExtensions <https://github.com/Kylemc1413/MappingExtensions>`_
 
 Leaderboards
-++++++++++++
+************
 
 - `ScoreSaber <https://scoresaber.com>`_
 
 Libraries
-+++++++++
+*********
 
 - `SongDetailsCache <https://github.com/kinsi55/BeatSaber_SongDetails>`_
 - `CustomJSONData <https://github.com/Aeroluna/CustomJSONData>`_
@@ -77,25 +77,25 @@ Libraries
 - `BeatSaberMarkupLanguage <https://github.com/monkeymanboy/BeatSaberMarkupLanguage>`_
 
 Lighting
-++++++++
+********
 
 - `Chroma <https://github.com/Aeroluna/Heck>`_
 - `Technicolor <https://github.com/Aeroluna/Technicolor/>`_
 - `BetterStaticLights <https://github.com/Exomanz/BetterStaticLights#readme>`_
 
 Stream Tools
-++++++++++++
+************
 
 - `Beat Saber Plus (Manual Install) <https://github.com/hardcpp/BeatSaberPlus>`_
 - `BeatFollower <https://www.beatfollower.com/faq>`_
 
 Tweaks/Tools
-++++++++++++
+************
 
 - `BetterSongSearch <https://github.com/kinsi55/BeatSaber_BetterSongSearch#better-song-search>`_
 
 UI Enhancements
-+++++++++++++++
+***************
 
 - `SongPlayHistory <https://github.com/qe201020335/SongPlayHistory>`_
 - `Counters+ <https://github.com/Caeden117/CountersPlus>`_
