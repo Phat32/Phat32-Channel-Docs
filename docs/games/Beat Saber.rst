@@ -6,7 +6,7 @@ Tools and Version
 
 `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ is used to both control the version install of Beat Saber but also manage 90% of the mods
 
-We are playing with v1.29.1 for the best mod compatability 
+I am playing on v1.29.1 for the best mod compatability for 3D models. Most of the mods are available in 1.31.1, with the exception for model mods
 
 Chat Commands
 -------------
@@ -21,7 +21,7 @@ Chat Commands
 Mods
 ----
 
-Almost all of the mods are installed using the `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_
+Just about all of the mods are installed using the `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ and as such the mods are listed under the catergory they can be found under in BSM
 
 Core
 ****
@@ -83,10 +83,18 @@ Lighting
 - `Technicolor <https://github.com/Aeroluna/Technicolor/>`_
 - `BetterStaticLights <https://github.com/Exomanz/BetterStaticLights#readme>`_
 
+Multiplayer
+***********
+
+- `MultiplayerExtensions <https://github.com/Goobwabber/MultiplayerExtensions>`_
+- `ServerBrowser <https://bssb.app>`_
+- `BeatTogether <https://github.com/BeatTogether/BeatTogether>`_
+- `MultiplayerCore <https://github.com/Goobwabber/MultiplayerCore>`_
+
 Stream Tools
 ************
 
-- `Beat Saber Plus (Manual Install) <https://github.com/hardcpp/BeatSaberPlus>`_
+- `Beat Saber Plus <https://github.com/hardcpp/BeatSaberPlus>`_ * this one is a manual install and not currently found in BSM
 - `BeatFollower <https://www.beatfollower.com/faq>`_
 
 Tweaks/Tools
