@@ -4,46 +4,54 @@ Channel Points
 What do they do?
 ----------------
 
-Using channel points you can do the typical things like "Hydrate" and what not, but there are other channel points that affect the stream directly.
+So many things. Some effect the face camera, others the stream as a whole, but some also just play a sound. It all depends!
 
-Any Channel Points used in stream will get you half as many points spent in PhatCoin
-
-How do Channel Rewards affect the stream?
------------------------------------------
-
-Using the tool Lioranboard_ I can create complex sequences of commands that can be activated using Channel Points
-
-.. _Lioranboard: https://phat32.tv/lb
+Explore and try out the differnt rewards! If you have an idea for an effect I should add to the stream, please share that idea!
 
 
 List of Channel Point Rewards
 -----------------------------
 
-100 Points
+50 Points
 ++++++++++
 
-**Character Name Generator**
-  Suggest a name for a Character, all names will be added to a list and pulled from as needed
+**Bonk**
+  Plays a bonk sound effect
 
-**Place Name Generator**
-  Suggest a name for a Place, all names will be added to a list and pulled from as needed
+**fart with reverb**
+  Drop a stinker into a mic at a concert hall
 
-**Ship Name Generator**
-  Suggest a name for a Ship, all names will be added to a list and pulled from as needed
+**france scream jump scare - miss universe**
+  jump scare FRANCE
 
-200 Points
+**Phone Ring Vibration**
+  Get a call about our vechiles extended warranty
+
+**This whole day is ruined**
+  The day just got ruined
+
+55 Points
 ++++++++++
 
 **Hydrate**
   Remind me to take a drink of water
 
-**Lift Weights**
-  Make me lift weights I keep next to my desk
-
 **Posture Check**
   Fix my posture and remind me to sit up
 
-250 Points
+65 Points
+++++++++++
+
+**Dun-Dun-DUUUUUUUUUNN**
+  Such a drama hog
+
+**Epic Fail**
+  When that just... What was that? A fail. Thats what that was.
+
+**To Be Continued**
+  IS THAT A MFING JOJOS REFERENCE?!
+
+75 Points
 ++++++++++
 
 **Face Camera Control**
@@ -55,50 +63,41 @@ List of Channel Point Rewards
 **Printer Camera Control**
   Turn on the 3D Printer Camera for 2 minutes to see what is printing!
 
-300 Points
+85 Points
 ++++++++++
 
-**Sound Alert**
-  * A Few Moments Later
-  * At this moment he knew
-  * Bruh
-  * Failed Trompete
-  * HA GOT EMM
-  * Owen Wilson WOW
+**HEYYEYAAEYAAAAEYAEYAA**
+  Whats going on?
 
-**Sound Alert + Camera Effect**
-  * Dun-Dun-DUUUUUUUUUNN
-  * HEYYEYAAEYAAAAEYAEYAA
-  * Illuminati
-  * NANI?!
-  * To Be Continued
+**Illuminati**
+  They know. They always know.
 
-500 Points
+**NANI?!**
+  Nani the f---?
+
+**Polaroid**
+  Take a snapshot of this ugly mug in the moment
+
+**RTX OFF**
+  The graphics settings for IRL are so dumb, I prefer playing with RTX disabled
+
+125 Points
 ++++++++++
 
-**Emote-only Chat**
-  Start a 2 minute Emote Only Mode automatically
+**Fall Guy Power**
+  Turn on the full size Fall Guy that hangs out behind me.
 
-**Random Effect**
-  Plays a random camera effect, also includes Sub commands
-
-900 Points
+250 Points
 ++++++++++
 
-**Set LED Colours**
-  Change the background LED Colours
+**Song Request**
+  Take over the background music and play the song you want to play. It must be available on Spotify.
 
-5,000 Points
+325 Points
 ++++++++++
 
-**Pick a Game for Me**
-  Pick a game for me to play on stream eventuatlly
-
-6,000 Points
-+++++++++++++
-
-**Ad Time**
-  Start an add automatically. Don't do this. It is priced this high so it isn't used
+**Intro song by Nation**
+  Nation has made some proper bangers for the channel, lets hear one!
 
 100,000 Points
 ++++++++++++++
