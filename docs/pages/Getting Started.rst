@@ -1,10 +1,10 @@
 What is a Phat32?
 =================
 
-What or Who is a Phat32?
--------------------------
-
 Phat32 is me, I am him. Call me Phat32, Phat, or by just Tom if you like.
+
+I see. Tell me more
+-------------------
 
 I am Canadian out in BC, a Husband, a Software Developer, and a Partnered streamer on Twitch.  I have a particular love for `Star Citizen <https://phat32.tv/starcitizen>`_ which my Wife has also gotten into *(squeee)* but am what you would call a Variety Streamer. I like to change it up and try new and indie games.
 
