@@ -18,6 +18,27 @@ Chat Commands
 
     !bsr 12abf
 
+**!bsrhelp**
+  A quick rundown in chat on how to use the !bsr command with a link to `Beat Saver <https://beatsaver.com/>`_
+
+  .. code-block:: none
+
+    !bsrhelp
+
+**!link**
+  Get the link to the current / most recent song played
+
+  .. code-block:: none
+
+    !link
+
+**!oops**
+  Take back the last song you added to the queue
+
+  .. code-block:: none
+
+    !oops
+
 Mods
 ----
 
