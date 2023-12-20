@@ -1,21 +1,17 @@
-Who is Phat32?
-==============
+What is a Phat32?
+=================
 
-Hi! I am Phat32, or by just Tom. Feel free to call me Phat32, Phat or Tom! Any of them is totally fine by me!
+What or Who is a Phat32?
+-------------------------
 
-I am Canadian out in BC, a Husband, a Software Developer, and a Partnered streamer on Twitch. During the day I work a day job and write code, but in the evening or days off I will be streaming! I have a particular love for `Star Citizen`__ which my Wife has also gotten into *(squeee)* but am what you would call a Variety Streamer. I like to change it up and try new and indie games.
+Phat32 is me, I am him. Call me Phat32, Phat, or by just Tom if you like.
 
-If you have any questions, feel free to join the Discord_, follow me on Twitter_ or Instagram_, or join the streams happening over on Twitch_
+I am Canadian out in BC, a Husband, a Software Developer, and a Partnered streamer on Twitch.  I have a particular love for `Star Citizen <https://phat32.tv/starcitizen>`_ which my Wife has also gotten into *(squeee)* but am what you would call a Variety Streamer. I like to change it up and try new and indie games.
 
-.. _Discord: https://phat32.tv/discord
-.. _Twitter: https://phat32.tv/twitter
-.. _Instagram: https://phat32.tv/instagram
-.. _Twitch: https://twitch.tv/phat32
-.. _SC: https://phat32.tv/starcitizen
-__ SC_
+If you have any questions, feel free to join the `Discord <https://phat32.tv/discord>`_, follow me on `Twitter <https://phat32.tv/twitter>`_ (you will not catch me calling it anything else) or `Instagram <https://phat32.tv/instagram>`_. Join us live for the streams happening over on `Twitch <https://twitch.tv/phat32>`_
 
 Seriously, Why All of This?
-===========================
+---------------------------
 
 As with most Streamers, I have added many different ways for the viewers to intereact more directly with the stream while it is happening. Part of that is a bunch of commands that are changed here and there or new ones added for the lulz.
 
