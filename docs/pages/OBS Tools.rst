@@ -6,97 +6,59 @@ A list of the tools and plugins that are used to do all the stuff the stream doe
 Tools
 -----
 
-SAMMI_
+`SAMMI <https://sammi.solutions>`_
 	Used to do scene changes and effects that happen on stream. This also enabled the Channel Point interactions to happen automatically
 
-`Streamer.bot`__
+`Streamer.bot <https://streamer.bot>`_
 	Used to do automation with stream interactions and IRL effects and others.
-
-__ STREAMER_
 
 Plugins
 -------
 
-`3D Effects`__
+`3D Effects <https://obsproject.com/forum/resources/3d-effect.1692/>`_
 	Adds the ability to edit a source in 3D space
 
-__ 3D_
-
-`Advanced Scene Switcher`__
+`Advanced Scene Switcher <https://obsproject.com/forum/resources/advanced-scene-switcher.395/>`_
 	As the name states, will automatically change scene based on different conditions
 
-__ ASS_
+`Ashmanix Countdown Timer <https://obsproject.com/forum/resources/ashmanix-countdown-timer.1610/>`_
+	Adds a countdown timer that can be triggered via websocket
 
-`Ashmanix Blue Filter`__
-	Adds a blur filter to sources
-
-__ BLUR_
-
-`Closed Captioning via Google Speech Recognition`__
+`Closed Captioning via Google Speech Recognition <https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/>`_
 	Provides live Closed Captions to the stream. They are added using Twitches built in CC so it is not forced in the stream and does not require a Twitch Extension
 
-__ CLOSED_
+`Composite Blur <https://obsproject.com/forum/resources/composite-blur.1780/>`_
+	Adds a blur filter with many options
 
-`DroidCam OBS`__
+`DroidCam OBS <https://www.dev47apps.com/obs/>`_
 	Adds the ability to use mobile phones as cameras
 
-__ CAM_
+`Face Tracker <https://obsproject.com/forum/resources/face-tracker.1294/>`_3D
+	Add a filter that does live face tracking
 
-`Freeze Filter`__
+`Freeze Filter <https://obsproject.com/forum/resources/freeze-filter.950/>`_
 	Adds the ability to live freeze a source for different effects
 
-__ FREEZE_
-
-`Move Transition`__
+`Move Transition <https://obsproject.com/forum/resources/move.913/>`_
 	Adds the ability to both move sources but also change values for another filter for gradual changes
 
-__ MOVE_
-
-`Replay Source`__
+`Replay Source <https://obsproject.com/forum/resources/replay-source.686/>`_
 	Adds the ability to replay a specific source instead of the whole scene for clean replays
 
-__ REPLAY_
-
-`Source Screenshot Filter`__
+`Source Screenshot Filter <https://github.com/synap5e/obs-screenshot-plugin>`_
 	Adds the ability to save a screenshot of just a source
 
-__ SCREEN_
-
-`Source Clone`__
+`Source Clone <https://obsproject.com/forum/resources/source-clone.1632/>`_
 	Adds Source Clone as a source type
 
-__ CLONE_
-
-`Source Record`__
+`Source Record <https://obsproject.com/forum/resources/source-record.1285/>`_
 	Adds the ability to record a source
 
-__ RECORD_
+`Multiple RTMP outputs plugin <https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/>`_
+	Adds the ability to output to multiple RTMP endpoints for 1 stream
 
-`Waveform`__
+`Waveform <https://obsproject.com/forum/resources/waveform.1423/>`_
 	Adds a audio wave form to the stream when we speak as a cool feature
 
-__ WAVE_
-
-`VBAN Plugin`__
+`VBAN Plugin <https://obsproject.com/forum/resources/vban-audio-plugin.1623/>`_
 	Adds VBAN as a source item to directly connect an audio source using VBAN
-
-__ VBAN_
-
-
-.. _3D: https://obsproject.com/forum/resources/3d-effect.1692/
-.. _ASS: https://obsproject.com/forum/resources/advanced-scene-switcher.395/
-.. _BLUR: https://obsproject.com/forum/resources/ashmanix-blur-filter.1742/
-.. _CAM: https://www.dev47apps.com/obs/
-.. _CLOSED: https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/
-.. _FACE: https://obsproject.com/forum/resources/face-tracker.1294/
-.. _FREEZE: https://obsproject.com/forum/resources/freeze-filter.950/
-.. _MOVE: https://obsproject.com/forum/resources/move.913/
-.. _REPLAY: https://obsproject.com/forum/resources/replay-source.686/
-.. _SCREEN: https://github.com/synap5e/obs-screenshot-plugin
-.. _CLONE: https://obsproject.com/forum/resources/source-clone.1632/
-.. _RECORD: https://obsproject.com/forum/resources/source-record.1285/
-.. _WAVE: https://obsproject.com/forum/resources/waveform.1423/
-.. _VBAN: https://obsproject.com/forum/resources/vban-audio-plugin.1623/
-
-.. _SAMMI: https://sammi.solutions
-.. _STREAMER: https://streamer.bot
