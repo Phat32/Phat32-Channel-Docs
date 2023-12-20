@@ -33,7 +33,9 @@ Plugins
 `DroidCam OBS <https://www.dev47apps.com/obs/>`_
 	Adds the ability to use mobile phones as cameras
 
-`Face Tracker <https://obsproject.com/forum/resources/face-tracker.1294/>`_3D
+	**2023-12-20** I have identified DroidCam OBS to be causing issues with at least my config, when closing OBS something just hangs and I am forced to reboot to regain websocket functionality. 
+
+`Face Tracker <https://obsproject.com/forum/resources/face-tracker.1294/>`_
 	Add a filter that does live face tracking
 
 `Freeze Filter <https://obsproject.com/forum/resources/freeze-filter.950/>`_
