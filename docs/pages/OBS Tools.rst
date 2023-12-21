@@ -15,6 +15,17 @@ Tools
 `VDO.Ninja <https://vdo.ninja>`_
 	Turns any device with a camera and a browser into a camera you can add via browser source. Control the cameras from the PC in 1 location. Optional for self hosting as it is totally free
 
+	I would suggest creating a room you can be the director for from your PC and control your phones camera settings from there
+
+	There are also a number of URL Parameters you can utilize to get it working just how you want, but I would encourge adding this to the URL on your phone for better performance and reduce the heat created
+
+	.. code-block::
+
+		&consent&nopreview
+
+	&consent adds the ability to control your camera settings without prompting
+	&nopreview disables the preview on the screen which reduces heat generated
+
 Plugins
 -------
 
