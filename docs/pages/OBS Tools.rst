@@ -6,6 +6,11 @@ A list of the tools and plugins that are used to do all the stuff the stream doe
 Tools
 -----
 
+`Home Assistant <https://www.home-assistant.io>`_
+	I use Home Assistant to help make the stream feel more alive! Many of the channel rewards have effects that take place in the real world, and HA is how that is possible. Through various smart plugs, custom ESP32 LED modules and Chromecasts we can make all manner of things happen!
+
+	I also just low key love HA and making my own smart home with $10 smart lights from walmart.
+
 `SAMMI <https://sammi.solutions>`_
 	Used to do scene changes and effects that happen on stream. This also enabled the Channel Point interactions to happen automatically
 
