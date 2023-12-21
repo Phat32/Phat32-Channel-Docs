@@ -1,7 +1,9 @@
 OBS Setup
 =========
 
-A list of the tools and plugins that are used to do all the stuff the stream does. This does require OBS Studio, OBS.Live and SLOBS are not compatible with most of the tools used.
+Should go without saying, but the stream is run using `OBS Studio <https://www.home-assistant.io>`_ as the streaming software of choice.
+
+This does require OBS Studio. Other forks like SLOBS are not compatible
 
 Tools
 -----
