@@ -12,6 +12,9 @@ Tools
 `Streamer.bot <https://streamer.bot>`_
 	Used to do automation with stream interactions and IRL effects and others.
 
+`VDO.Ninja <https://vdo.ninja>`_
+	Turns any device with a camera and a browser into a camera you can add via browser source. Control the cameras from the PC in 1 location. Optional for self hosting as it is totally free
+
 Plugins
 -------
 
@@ -29,11 +32,6 @@ Plugins
 
 `Composite Blur <https://obsproject.com/forum/resources/composite-blur.1780/>`_
 	Adds a blur filter with many options
-
-`DroidCam OBS <https://www.dev47apps.com/obs/>`_
-	Adds the ability to use mobile phones as cameras
-
-	**2023-12-20** I have identified DroidCam OBS to be causing issues with at least my config, when closing OBS something just hangs and I am forced to reboot to regain websocket functionality. 
 
 `Face Tracker <https://obsproject.com/forum/resources/face-tracker.1294/>`_
 	Add a filter that does live face tracking
