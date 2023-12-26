@@ -36,7 +36,7 @@ I am always open to making the stream better and adding new things to it! Feel f
    :caption: Getting Started
 
    pages/Getting Started   
-   pages/OBS Tools
+   pages/Stream Setup
    pages/Twitch Extensions
 
 .. toctree::

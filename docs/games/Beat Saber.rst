@@ -4,9 +4,9 @@ Beat Saber
 Tools and Version
 -----------------
 
-`Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ is used to both control the version install of Beat Saber but also manage 90% of the mods
+I am using `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ to manage both the mods and the installation of Beat Saber as it can install specific versions which have better mod support. This also helps prevent issues when an update is released and breaks some mods. 
 
-I am playing on v1.29.1 for the best mod compatability for 3D models. Most of the mods are available in 1.31.1, with the exception for model mods
+I am running v1.29.1 for the best mod support and use of custom assets like custom sabers
 
 Chat Commands
 -------------
@@ -52,6 +52,7 @@ Cosmetic
 - `CustomPillows <https://github.com/RedBrumbler/CustomPillows>`_
 - `CustomBanners <https://github.com/ToniMacaroni/CustomBanners>`_
 - `Saber Factory <https://github.com/ToniMacaroni/SaberFactory>`_
+- `Customer Avatars <https://github.com/nicoco007/BeatSaberCustomAvatars>`_
 - `Custom Walls <https://github.com/Pespiri/BeatSaberCustomWalls>`_
 - `Custom Platforms <https://github.com/affederaffe/CustomPlatforms>`_
 - `Partical Overdrive <https://github.com/Shadnix-was-taken/BeatSaber-ParticleOverdrive>`_
@@ -76,6 +77,7 @@ Libraries
 - `LookupID <https://github.com/Aeroluna/Heck>`_
 - `SongDataCore <https://github.com/halsafar/BeatSaberSongDataCore/>`_
 - `BeatSaberPLaylistsLib <https://github.com/Aeroluna/Heck>`_
+- `websocket-sharp <https://github.com/sta/websocket-sharp>`_
 - `SiraUtil <https://github.com/Zingabopp/BeatSaberPlaylistsLib>`_
 - `ScoreSaberSharp <https://github.com/Auros/SiraUtil>`_
 - `protobuf-net <https://github.com/protobuf-net/protobuf-net>`_
@@ -100,10 +102,15 @@ Multiplayer
 - `BeatTogether <https://github.com/BeatTogether/BeatTogether>`_
 - `MultiplayerCore <https://github.com/Goobwabber/MultiplayerCore>`_
 
+Pratice / Training
+******************
+
+- `HRCounter <https://github.com/qe201020335/HRCounter>`_ *Manual install - using v2.1.3-hotfix2 as 3.0.0-2 seemed to prevent loading for me*
+
 Stream Tools
 ************
 
-- `Beat Saber Plus <https://github.com/hardcpp/BeatSaberPlus>`_ * this one is a manual install and not currently found in BSM
+- `Beat Saber Plus <https://github.com/hardcpp/BeatSaberPlus>`_ *Manual Install*
 - `BeatFollower <https://www.beatfollower.com/faq>`_
 
 Tweaks/Tools

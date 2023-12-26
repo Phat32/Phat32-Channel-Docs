@@ -2,6 +2,8 @@
 Subwall
 =======
 
+**IMPORTANT!!!** The subwall is still present, but due to a lack of filament and a good location to show it off for the stream new plates will be paused for the time being.
+
 What is the Subwall?
 --------------------
 
