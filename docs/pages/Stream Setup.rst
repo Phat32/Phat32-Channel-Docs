@@ -5,19 +5,20 @@ Hardware
 --------
 
 Gaming PC
-	AMD 3600 X
-	Gigabyte B450M
-	EVGA 3090 FTW3
-	Corsair Dominator Platiunm 32GB
-	Corsair HX1200i
+	- AMD 3600 X
+	- Gigabyte B450M
+	- EVGA 3090 FTW3
+	- Corsair Dominator Platiunm 32GB
+	- Corsair HX1200i
 
 Streaming PC
-	Intel i7-7820X
-	Gigabyte X299 AORUS Gaming7
-	Gigabte 1080Ti Waterforce
-	GSkill 64GB Quad Channel
-	Corsair HX1000
-
+	- Intel i7-7820X
+	- Gigabyte X299 AORUS Gaming7
+	- Gigabte 1080Ti Waterforce
+	- GSkill 64GB Quad Channel
+	- Corsair HX1000
+	- AverMedia Duo Capture cards
+	- AverMedia Live Gamer HD
 
 `ESP32s <https://www.aliexpress.com/item/4000093185394.html?spm=a2g0o.order_list.order_list_main.91.55fd1802Bvx6FJ>`_
 	Just a bunch of ESP32s running various lights setup around the office to do the effects triggerd by chat
