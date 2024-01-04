@@ -19,13 +19,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Phat32 Channel Docs'
-copyright = '2021, Tom Hope'
-author = 'Tom Hope'
+copyright = '2024, Phat32'
+author = 'Phat32'
 
 # The short X.Y version
-version = ''
+version = '1.0'
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
