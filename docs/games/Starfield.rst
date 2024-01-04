@@ -1,6 +1,9 @@
 Starfield
 =========
 
+Mod Manager
+-----------
+
 We are using the Gamepass version of Starfield cause it is already paid for! This does comes with some limitations with mods that are used. At the time of creating this page, SFSE is not compatible with Gamepass.
 
 There is a way to make some SFSE plugins work, but it is unreliable at the moment. More mods are getting ported to ASI when possible so yay

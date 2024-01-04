@@ -1,7 +1,10 @@
 Baldur's Gate 3
 ===============
 
-To install mods we are using a mixture of manual installs and utlitizing the `BG3MM <https://github.com/LaughingLeader/BG3ModManager>`_
+Mod Manager
+-----------
+
+`BG3MM <https://github.com/LaughingLeader/BG3ModManager>`_ is used to manage some of the mods, there are also a handful that have to be installed manually
 
 Installed Mods
 --------------

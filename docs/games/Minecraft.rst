@@ -5,8 +5,8 @@ The install of Minecraft that we are running is integrated with Twitch so you ca
 
 Please feel free to suggest new combinations!
 
-Launcher
---------
+Mod Manager
+-----------
 
 `MultiMC <https://multimc.org/>`_ is the launcher of choice around here, no particular reason other than it is what we like
 

@@ -1,12 +1,15 @@
 Beat Saber
 ==========
 
-Tools and Version
------------------
-
-I am using `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ to manage both the mods and the installation of Beat Saber as it can install specific versions which have better mod support. This also helps prevent issues when an update is released and breaks some mods. 
+Version
+-------
 
 I am running v1.29.1 for the best mod support and use of custom assets like custom sabers
+
+Mod Manager
+-----------
+
+`Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ to manage both the mods and the installation of Beat Saber as it can install specific versions which have better mod support. This also helps prevent issues when an update is released and breaks some mods. 
 
 Chat Commands
 -------------
