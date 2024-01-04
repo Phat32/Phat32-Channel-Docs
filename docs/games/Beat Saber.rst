@@ -56,6 +56,7 @@ Cosmetic
 - `Custom Walls <https://github.com/Pespiri/BeatSaberCustomWalls>`_
 - `Custom Platforms <https://github.com/affederaffe/CustomPlatforms>`_
 - `Partical Overdrive <https://github.com/Shadnix-was-taken/BeatSaber-ParticleOverdrive>`_
+- `MutliplayerAvatars <https://github.com/Goobwabber/MultiplayerAvatars>`_ *Manual Install*
 
 Gameplay
 ********

@@ -72,6 +72,7 @@ I am always open to making the stream better and adding new things to it! Feel f
   :maxdepth: 2
   :caption: Game Intregrations
 
+  games/Baldurs Gate 3
   games/Beat Saber
   games/Minecraft  
   games/Starfield
