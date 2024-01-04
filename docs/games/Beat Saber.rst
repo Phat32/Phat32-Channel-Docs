@@ -33,7 +33,22 @@ Chat Commands
 Mods
 ----
 
-Just about all of the mods are installed using the `Beat Saber Manager <https://github.com/Zagrios/bs-manager>`_ and as such the mods are listed under the catergory they can be found under in BSM
+Manual
+++++++
+
+These mods are installed directly and not via the BSM, but it can be used to access the install location. 
+
+With BSM open, use the gear in the upper right to open a drop down and select Open Folder. 
+
+Drop the following mods into the Plugins folder
+
+- `Beat Saber Plus <https://github.com/hardcpp/BeatSaberPlus>`_ *Manual Install*
+- `HRCounter <https://github.com/qe201020335/HRCounter>`_ *I am using v2.1.3-hotfix2 as 3.0.0-2 seemed to prevent loading for me*
+
+BSManager
++++++++++
+
+These are installed via BSManager, to make finding them easier the mods are laid out to match how they are listed in the Mod tab
 
 Core
 ****
@@ -59,7 +74,6 @@ Cosmetic
 - `Custom Walls <https://github.com/Pespiri/BeatSaberCustomWalls>`_
 - `Custom Platforms <https://github.com/affederaffe/CustomPlatforms>`_
 - `Partical Overdrive <https://github.com/Shadnix-was-taken/BeatSaber-ParticleOverdrive>`_
-- `MutliplayerAvatars <https://github.com/Goobwabber/MultiplayerAvatars>`_ *Manual Install*
 
 Gameplay
 ********
@@ -106,15 +120,9 @@ Multiplayer
 - `BeatTogether <https://github.com/BeatTogether/BeatTogether>`_
 - `MultiplayerCore <https://github.com/Goobwabber/MultiplayerCore>`_
 
-Pratice / Training
-******************
-
-- `HRCounter <https://github.com/qe201020335/HRCounter>`_ *Manual install - using v2.1.3-hotfix2 as 3.0.0-2 seemed to prevent loading for me*
-
 Stream Tools
 ************
 
-- `Beat Saber Plus <https://github.com/hardcpp/BeatSaberPlus>`_ *Manual Install*
 - `BeatFollower <https://www.beatfollower.com/faq>`_
 
 Tweaks/Tools
