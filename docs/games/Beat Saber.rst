@@ -43,8 +43,7 @@ With BSM open, use the gear in the upper right to open a drop down and select Op
 Drop the following mods into the Plugins folder
 
 - `Beat Saber Plus <https://github.com/hardcpp/BeatSaberPlus>`_
-- `HRCounter <https://github.com/qe201020335/HRCounter>`_ 
-    *I am using v2.1.3-hotfix2 as 3.0.0-2 seemed to prevent loading for me*
+- `HRCounter <https://github.com/qe201020335/HRCounter>`_  - *I am using v2.1.3-hotfix2 as 3.0.0-2 seemed to prevent loading for me*
 
 BSManager
 +++++++++
