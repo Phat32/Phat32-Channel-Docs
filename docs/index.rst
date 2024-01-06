@@ -35,46 +35,36 @@ I am always open to making the stream better and adding new things to it! Feel f
    :maxdepth: 2
    :caption: Getting Started
 
-   pages/Getting Started   
-   pages/Stream Setup
-   pages/OBS Setup
-   pages/Twitch Extensions
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Channel Stuff
-      
-  pages/Schedule
-  pages/Channel Points
-  .. pages/PhatCoin
-  pages/Blerps
-  .. pages/Stream Avatars  
-   
-.. toctree::
-  :maxdepth: 2
-  :caption: Subscribers
-
-  subs/Discord
-  subs/Subwall
+   pages/Getting Started/Getting Started   
+   pages/Getting Started/Schedule
+   pages/Getting Started/Stream Setup
+   pages/Getting Started/OBS Setup
+   pages/Getting Started/Chrome Extensions
 
 .. toctree::
   :maxdepth: 2
   :caption: Commands
 
-  commands/Bits Commands
-  commands/Point Commands
-  commands/Commands
-  commands/Game Commands
-  commands/Sub Commands
-  commands/Vip Commands
-  commands/Mod Commands
+  pages/commands/Chat
+  pages/commands/Bits
+  pages/commands/Rewards
+  pages/commands/Subs
+  pages/commands/Vips
+  pages/commands/Mods
 
 .. toctree::
   :maxdepth: 2
   :caption: Game Intregrations
 
-  games/Baldurs Gate 3
-  games/Beat Saber
-  games/Deep Rock Galactic
-  games/Minecraft  
-  games/Starfield
+  pages/games/Baldurs Gate 3
+  pages/games/Beat Saber
+  pages/games/Deep Rock Galactic
+  pages/games/Minecraft  
+  pages/games/Starfield
+   
+.. toctree::
+  :maxdepth: 2
+  :caption: Subscribers
+
+  pages/subs/Discord
+  pages/subs/Subwall
