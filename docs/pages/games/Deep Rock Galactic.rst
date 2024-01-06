@@ -1,28 +1,56 @@
-Baldur's Gate 3
-===============
+Deep Rock Galactic
+==================
 
-Mod Manager
------------
+I am only just getting this up and running and there are a lot of options, but this is what I have setup so far.
 
-`BG3MM <https://github.com/LaughingLeader/BG3ModManager>`_ is used to manage some of the mods, there are also a handful that have to be installed manually
+Bit Spawns
+----------
 
-Installed Mods
+- **100** - Spawn M.U.L.E.
+- **250** - Spawn Bosco
+
+Event Spawns
+------------
+
+There are different spawns that occur when various stream related events happen
+
+Follower
+********
+
+- Confetti! It is a party!
+
+Subs & Gift Subs
+****************
+
+- Confetti! It is a party!
+- Spawn a Sub Bug! (it is a golden lootbug)
+
+Spawn Commands
 --------------
 
-Manual
-******
+Once something is spawned, these commands are generally made available to the spawner for any spawn event
 
-- `Achievement Enabler <https://www.nexusmods.com/baldursgate3/mods/668>`_
-- `Native Camera Tweaks <https://www.nexusmods.com/baldursgate3/mods/945>`_
-- `Native Mod Loader <https://www.nexusmods.com/baldursgate3/mods/944>`_
-- `WASD Character Movement <https://www.nexusmods.com/baldursgate3/mods/781>`_
+- **#sneak** - Turn Invisible
+- **#rise** - Rise from the Grave
 
-BG3MM
-*****
+Mods
+-----------
 
-- `Baldur's Gate 3 Mod Fixer <https://www.nexusmods.com/baldursgate3/mods/141>`_
-- `Better Inventory UI (with Mark Books as Read support) <https://www.nexusmods.com/baldursgate3/mods/4597>`_
-- `ImprovedUI ReleaseReady <https://www.nexusmods.com/baldursgate3/mods/366>`_
-- `No Intro <https://www.nexusmods.com/baldursgate3/mods/680>`_
-- `No Press Any Key Menu <https://www.nexusmods.com/baldursgate3/mods/745>`_
-- `Themed Dice Skins <https://www.nexusmods.com/baldursgate3/mods/2118>`_
+The mod manager is built into the game itself utilizing `mod.io <https://mod.io>`_ to download and install the mods, sort of like how the SteamWorkshop works. Just find the mod you want on the site, subscribe to the mod and when you launch the game it should download the mods.
+
+To get them downloading you do need to active it by opening the in game menu and going to the Modding tab. It will ask you to log in and will then download the mods. You can disable or enable them here as well.
+
+Installed Mods
+**************
+
+- `Better Spectator <https://mod.io/g/drg/m/better-spectator-reloaded>`_
+- `Damage Text <https://mod.io/g/drg/m/damage-text>`_
+- `Death Marker <https://mod.io/g/drg/m/death-marker>`_
+- `DRGLib <https://mod.io/g/drg/m/drglib>`_
+- `Mod Hub <https://mod.io/g/drg/m/mod-hub>`_
+- `Pickaxe Bonk! SFX <https://mod.io/g/drg/m/pickaxe-bonk-sfx>`_
+- `SGG Framework Files <https://mod.io/g/drg/m/sgg-framework-files>`_
+- `SGG Spawns (SGG Twitch Expansion+) <https://mod.io/g/drg/m/sgg-spawns>`_
+- `SGG Twitch Expansion <https://mod.io/g/drg/m/sgg-twitch-expansion>`_
+- `Showable Legs In First Person View <https://mod.io/g/drg/m/showable-legs-in-first-person-view>`_
+- `Twitch Integration <https://mod.io/g/drg/m/twitch-integration>`_
