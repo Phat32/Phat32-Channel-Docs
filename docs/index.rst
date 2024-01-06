@@ -18,7 +18,7 @@ That would be over on Twitch at https://twitch.tv/Phat32
 
 You can also join the Discord_ for the latest in whats happening and random memes
 
-Last but not least, how about following on Twitter_ or Instagram_?
+Links to everything and anything, including this documentation you're reading, is over at `links.phat32.tv <https://links.phat32.tv>`_
 
 Ideas or Suggestions?
 ---------------------
@@ -29,6 +29,8 @@ I am always open to making the stream better and adding new things to it! Feel f
 .. _Discord: https://phat32.tv/discord
 .. _Twitter: https://phat32.tv/twitter
 .. _Instagram: https://phat32.tv/instagram
+
+
 .. _Email: mailto:tom@phat32.tv
 
 .. toctree::
@@ -36,10 +38,16 @@ I am always open to making the stream better and adding new things to it! Feel f
    :caption: Getting Started
 
    pages/Getting Started/Getting Started   
-   pages/Getting Started/Schedule
    pages/Getting Started/Stream Setup
    pages/Getting Started/OBS Setup
    pages/Getting Started/Chrome Extensions
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Channel
+
+  pages/channel/Schedule
+  pages/channel/Phatcoin
 
 .. toctree::
   :maxdepth: 2
