@@ -37,6 +37,7 @@ I am always open to making the stream better and adding new things to it! Feel f
 
    pages/Getting Started   
    pages/Stream Setup
+   pages/OBS Setup
    pages/Twitch Extensions
 
 .. toctree::
@@ -74,5 +75,6 @@ I am always open to making the stream better and adding new things to it! Feel f
 
   games/Baldurs Gate 3
   games/Beat Saber
+  games/Deep Rock Galactic
   games/Minecraft  
   games/Starfield
