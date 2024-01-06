@@ -32,13 +32,16 @@ Software & Services
 `blerp <https://blerp.com>`_
 	Various sound effects are played via blerp
 
+`Crowd Control <https://crowdcontrol.live>`_
+	Adds interactivity with the audience to have a direct impact in various games. Not all games support it, but many do
+
 `Home Assistant <https://www.home-assistant.io>`_
 	I use Home Assistant to help make the stream feel more alive! Many of the channel rewards have effects that take place in the real world, and HA is how that is possible. Through various smart plugs, custom ESP32 LED modules and Chromecasts we can make all manner of things happen!
 
 	I also just low key love HA and making my own smart home with $10 smart lights from walmart.
 
 `OBS Studio <https://www.home-assistant.io>`_ 
-	The streaming software of choice, between the open source nature of the project and all the plugins the are available as a result there really is no other choice
+	Kinda obvious, but the streaming software of choice around here
 
 `SAMMI <https://sammi.solutions>`_
 	Used to do scene changes and effects that happen on stream. This also enabled the Channel Point interactions to happen automatically
