@@ -45,9 +45,9 @@ I am always open to making the stream better and adding new things to it! Feel f
   :maxdepth: 2
   :caption: Commands
 
-  pages/commands/Chat
   pages/commands/Bits
   pages/commands/Rewards
+  pages/commands/Chat
   pages/commands/Subs
   pages/commands/Vips
   pages/commands/Mods

@@ -1,34 +1,48 @@
-Channel Point Commands
-=======================
+Rewards (Channel Points)
+========================
 
-Half of the Channel Points spent will be added back as PhatCoin
+50 Points
+++++++++++
 
-100 Points
-----------
-**Character Name Generator**
-  Suggest a name for a Character, all names will be added to a list and pulled from as needed
+**Bonk**
+  Plays a bonk sound effect
 
-**Place Name Generator**
-  Suggest a name for a Place, all names will be added to a list and pulled from as needed
+**fart with reverb**
+  Drop a stinker into a mic at a concert hall
 
-**Ship Name Generator**
-  Suggest a name for a Ship, all names will be added to a list and pulled from as needed
+**france scream jump scare - miss universe**
+  jump scare FRANCE
 
-200 Points
-----------
+**Phone Ring Vibration**
+  Get a call about our vechiles extended warranty
+
+**This whole day is ruined**
+  The day just got ruined
+
+55 Points
+++++++++++
 
 **Hydrate**
   Remind me to take a drink of water
 
-**Lift Weights**
-  Make me lift weights I keep next to my desk
-
 **Posture Check**
   Fix my posture and remind me to sit up
 
-250 Points
-----------
-  
+65 Points
+++++++++++
+
+**Dun-Dun-DUUUUUUUUUNN**
+  Such a drama hog
+
+**Epic Fail**
+  When that just... What was that? A fail. Thats what that was.
+
+**To Be Continued**
+  IS THAT A MFING JOJOS REFERENCE?!
+
+75 Points
+++++++++++
+
 **Face Camera Control**
   Turn the Face Camera on or off as you want!
 
@@ -38,54 +52,44 @@ Half of the Channel Points spent will be added back as PhatCoin
 **Printer Camera Control**
   Turn on the 3D Printer Camera for 2 minutes to see what is printing!
 
-300 Points
-----------
+85 Points
+++++++++++
 
-**Sound Alert**
-  * A Few Moments Later
-  * At this moment he knew
-  * Bruh
-  * Failed Trompete
-  * HA GOT EMM
-  * Owen Wilson WOW
+**HEYYEYAAEYAAAAEYAEYAA**
+  Whats going on?
 
-**Sound Alert + Camera Effect**
-  * Dun-Dun-DUUUUUUUUUNN
-  * HEYYEYAAEYAAAAEYAEYAA
-  * Illuminati
-  * NANI?!
-  * To Be Continued
+**Illuminati**
+  They know. They always know.
 
+**NANI?!**
+  Nani the f---?
 
-500 Points
-----------
+**Polaroid**
+  Take a snapshot of this ugly mug in the moment
 
-**Emote-only Chat**
-  Start a 2 minute Emote Only Mode automatically
+**RTX OFF**
+  The graphics settings for IRL are so dumb, I prefer playing with RTX disabled
 
-**Random Effect**
-  Plays a random camera effect, also includes Sub commands
+125 Points
+++++++++++
 
-900 Points
-----------
+**Fall Guy Power**
+  Turn on the full size Fall Guy that hangs out behind me.
 
-**Set LED Colours**
-  Change the background LED Colours
+250 Points
+++++++++++
 
-5,000 Points
-------------
+**Song Request**
+  Take over the background music and play the song you want to play. It must be available on Spotify.
 
-**Pick a Game for Me**
-  Pick a game for me to play on stream eventuatlly
+325 Points
+++++++++++
 
-6,000 Points
-------------
-  
-**Ad Time**
-  Start an add automatically. Don't do this. It is priced this high so it isn't used
+**Intro song by Nation**
+  Nation has made some proper bangers for the channel, lets hear one!
 
 100,000 Points
---------------
+++++++++++++++
 
-**End the Stream**
-  Once you issue this command, 20 seconds later the Stream ends. It happens instantly and is unstoppable once issued. I will have 10 seconds to say my farewells and curse the one who ended the stream!
+**End The Stream**
+  Automatically end the stream! 20 seconds after using the stream will be offline!

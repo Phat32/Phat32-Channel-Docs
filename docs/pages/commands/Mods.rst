@@ -1,7 +1,7 @@
 Mod Commands
 ============
 
-Mods have access to all the VIP Commands as well and the following...
+Mods can use all commands from VIP down
 
 
 More to come....

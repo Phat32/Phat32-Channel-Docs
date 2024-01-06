@@ -3,8 +3,8 @@ Subscriber Commands
 
 Subscriber have access to commands that only they can use! More will be added as we go
 
-Assest Colours
---------------
+IRL Stuff
+---------
 
 **!default**
   Make the assets on stream their default teal colour
@@ -29,9 +29,6 @@ Assest Colours
 
 **!rainbow**
   Make the assets on stream Rainbow
-
-IRL Stuff
----------
 
 **!cast {YouTube video}**
   Play a YouTube video of your choosing on the screen behind him. The video must be from YouTube, you can use the URL or just the video code-block
