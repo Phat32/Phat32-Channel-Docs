@@ -35,6 +35,9 @@ Software & Services
 `Crowd Control <https://crowdcontrol.live>`_
 	Adds interactivity with the audience to have a direct impact in various games. Not all games support it, but many do
 
+`Frosty Tools <https://frostytools.com>`_
+	Adds an AI interactive element to the stream, makes shoutouts dynamic and recaps of chat
+
 `Home Assistant <https://www.home-assistant.io>`_
 	I use Home Assistant to help make the stream feel more alive! Many of the channel rewards have effects that take place in the real world, and HA is how that is possible. Through various smart plugs, custom ESP32 LED modules and Chromecasts we can make all manner of things happen!
 
@@ -48,6 +51,9 @@ Software & Services
 
 `Streamer.bot <https://streamer.bot>`_
 	Used to do automation with stream interactions and IRL effects and others.
+
+`PhatBot <https://phatbot.phat32.tv>`_
+	The chatbot I made and use to add several common chatbot features
 
 `Pulsoid <https://phat32.tv/pulsoid>`_ *referal link*
 	Connects various Heart Rate Monitors to a phone and send the heart rate data to their servers where they provide widgets that display the current heart rate in real time. There is a paid tier but it is not required to use the service at all
