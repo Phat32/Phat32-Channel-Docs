@@ -1,17 +1,8 @@
 Schedule
 ========
 
-**Monday** - 2pm PST
-  Not sure... Working on a proper schedule for games each day. 
+**Monday & Thursday** - 6pm PST
+  Just started a new job, so we will play what we want!
 
-**Tuesday** - 2pm PST
-  Not sure... Working on a proper schedule for games each day. 
-
-**Wednesday** - 2pm PST
-  Not sure... Working on a proper schedule for games each day. 
-
-**Thursday** - 2pm PST
-  Not sure... Working on a proper schedule for games each day. 
-
-**Friday** - 2pm PST
-  Not sure... Working on a proper schedule for games each day. 
+**Weekends** *optional*
+  There may be random streams during weekends as time and events allow
