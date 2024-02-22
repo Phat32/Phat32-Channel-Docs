@@ -46,9 +46,6 @@ Software & Services
 `OBS Studio <https://www.home-assistant.io>`_ 
 	Kinda obvious, but the streaming software of choice around here
 
-`SAMMI <https://sammi.solutions>`_
-	Used to do scene changes and effects that happen on stream. This also enabled the Channel Point interactions to happen automatically
-
 `Streamer.bot <https://streamer.bot>`_
 	Used to do automation with stream interactions and IRL effects and others.
 

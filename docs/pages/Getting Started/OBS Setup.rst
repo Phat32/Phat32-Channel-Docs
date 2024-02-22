@@ -28,9 +28,6 @@ There are many plugins I use in OBS to make everything work, and these are them 
 `Move Transition <https://obsproject.com/forum/resources/move.913/>`_
 	Adds the ability to both move sources but also change values for another filter for gradual changes
 
-`Replay Source <https://obsproject.com/forum/resources/replay-source.686/>`_
-	Adds the ability to replay a specific source instead of the whole scene for clean replays
-
 `Source Screenshot Filter <https://github.com/synap5e/obs-screenshot-plugin>`_
 	Adds the ability to save a screenshot of just a source
 
