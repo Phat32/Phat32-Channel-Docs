@@ -69,6 +69,7 @@ I am always open to making the stream better and adding new things to it! Feel f
   pages/games/Deep Rock Galactic
   pages/games/Minecraft  
   pages/games/Starfield
+  pages/games/Timberborn
    
 .. toctree::
   :maxdepth: 2
