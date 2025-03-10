@@ -50,7 +50,7 @@ Client Mods
 - `Sodium <https://modrinth.com/mod/sodium>`_
 - `Sodium Extra <https://modrinth.com/mod/sodium-extra>`_
 - `Status <https://modrinth.com/mod/status>`_
-- `Tweakeroo <https://www.curseforge.com/minecraft/mc-mods/tweakeroo>`_
+- `Tweakeroo <https://modrinth.com/mod/tweakeroo>`_
 - `Wildfire's Female Gender Mod <https://modrinth.com/mod/female-gender>`_
 - `Xaero's Minimap <https://modrinth.com/mod/xaeros-minimap>`_
 - `Xaero's World Map <https://modrinth.com/mod/xaeros-world-map>`_
