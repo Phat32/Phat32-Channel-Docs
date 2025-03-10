@@ -65,7 +65,6 @@ Server Mods
 - `BlossomLib <https://modrinth.com/mod/blossomlib>`_
 - `Carpet <https://modrinth.com/mod/carpet>`_
 - `Cardinal Components API <https://modrinth.com/mod/cardinal-components-api>`_
-- `Carpet <https://modrinth.com/mod/carpet>`_
 - `Cloth Config API <https://modrinth.com/mod/cloth-config>`_
 - `Collective <https://modrinth.com/mod/collective>`_
 - `Discord Integration <https://modrinth.com/plugin/dcintegration>`_
