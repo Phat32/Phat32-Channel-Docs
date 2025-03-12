@@ -39,6 +39,7 @@ Client Mods
 - `MiniHUD <https://modrinth.com/mod/minihud>`_
 - `Mod Menu <https://modrinth.com/mod/modmenu>`_
 - `Mouse Tweaks <https://modrinth.com/mod/mouse-tweaks>`_
+- `No Chat Reports <https://modrinth.com/mod/no-chat-reports>`_
 - `playerAnimator <https://modrinth.com/mod/playeranimator>`_
 - `Presence Footsteps <https://modrinth.com/mod/presence-footsteps>`_
 - `Reese's Sodium Options <https://modrinth.com/mod/reeses-sodium-options>`_
